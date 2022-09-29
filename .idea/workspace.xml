@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java program to convert Fahrenheit and Celsius degrees.">
-      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Konto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java Basic concepts">
+      <change afterPath="$PROJECT_DIR$/src/Objects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fahrenheit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +45,23 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.Objects">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Objects" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plenum6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Plenum6" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Objects" />
+        <item itemvalue="Application.Plenum6" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Bank" />
       </list>
@@ -81,7 +94,7 @@
       <workItem from="1664455873022" duration="889000" />
       <workItem from="1664459424893" duration="22000" />
       <workItem from="1664468362871" duration="188000" />
-      <workItem from="1664478636072" duration="298000" />
+      <workItem from="1664478636072" duration="1481000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -89,7 +102,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1664456068692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Java Basic concepts">
+      <created>1664479140424</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1664479140424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java program to convert Fahrenheit and Celsius degrees." />
-    <option name="LAST_COMMIT_MESSAGE" value="Java program to convert Fahrenheit and Celsius degrees." />
+    <MESSAGE value="Java Basic concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basic concepts" />
   </component>
 </project>
