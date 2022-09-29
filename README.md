@@ -1,5 +1,7 @@
-# Java-Basics
+# Java-Basics 🤖
 
-## Basic Java Programs to deep dive into the World of Java. Do checkout the 'trick' package. Good Luck!!!
+## Basic Java Programs to deep dive into the World of Java. 💫 
 
-NOTE: - You might need COFFEE...
+_PS_. You might need coffeee...
+
+
