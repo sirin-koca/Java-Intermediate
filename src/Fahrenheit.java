@@ -2,7 +2,6 @@
 import static javax.swing.JOptionPane.*;
 
 class Converter {
-
     public static double fraCelsius(double graderCelsius) {
         double fahrenheit = graderCelsius * 9 / 5 + 32;
         //System.out.print(faherenheit); og void først!
