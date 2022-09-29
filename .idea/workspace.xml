@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java Basic concepts - RentesRente.java">
-      <change beforePath="$PROJECT_DIR$/src/RentesRente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RentesRente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
-  <component name="RunManager" selected="Application.RentesRente">
+}]]></component>
+  <component name="RunManager" selected="Application.Tabels">
     <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays1" />
       <module name="Java Basics" />
@@ -69,13 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RentesRente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RentesRente" />
       <module name="Java Basics" />
@@ -83,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tabels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabels" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RentesRente" />
+        <item itemvalue="Application.Tabels" />
         <item itemvalue="Application.Arrays1" />
+        <item itemvalue="Application.RentesRente" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.ConditionalStatements" />
-        <item itemvalue="Application.Objects" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +107,7 @@
       <workItem from="1664455873022" duration="889000" />
       <workItem from="1664459424893" duration="22000" />
       <workItem from="1664468362871" duration="188000" />
-      <workItem from="1664478636072" duration="2916000" />
+      <workItem from="1664478636072" duration="3217000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -136,7 +139,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1664482404636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Java Basic concepts - RentesRente.java">
+      <created>1664482567898</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1664482567898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
