@@ -1,13 +1,11 @@
-import javax.swing.*;
 import java.text.NumberFormat;
 
 // Beregning av rentesrente.
-import java.text.NumberFormat; // numerisk formatering
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
 
 public class RentesRente {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double beløp;   // totalbeløp ved slutten av hvert år
         double grunnbeløp = 1000.0; //grunnbeløpet forrentet
         double rentefot = 0.05; // rentefot pro anno
