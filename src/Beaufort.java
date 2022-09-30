@@ -10,7 +10,6 @@ import static javax.swing.JOptionPane.showMessageDialog;
  * Til slutt skal det være mulig å regne ut antall knop i en metode. En knop er lik 1852 meter.
  * Bruk desimal formatering: String.format("%.2f", prisen);
  * Nedenfor illustreres hvordan klassen og metodene skal se ut: **/
-
 class Vind {
     private double vindHastighet = 0.0;
     // Lag en konstruktør for å sette vindhastigheten
@@ -33,7 +32,6 @@ class Vind {
         }
         return false;
     }
-
     public boolean erVindstille() {
         if (vindHastighet < 2) {
             return true;
@@ -45,7 +43,6 @@ class Vind {
         int knop = 1852;
         return (vindHastighet * knop) / 100;
     }
-
     public int getBeaufort() {
         double beaufort = (Math.pow((vindHastighet / 3.01), 0.6666) + 0.5);
         return (int) beaufort;
