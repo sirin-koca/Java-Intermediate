@@ -1,5 +1,5 @@
 
-public class Tabels {
+public class Arrays2 {
 
     public static void main(String[] args) {
         int [][] tabell = new int [2][2];  // Array inni array
