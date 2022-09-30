@@ -1,17 +1,15 @@
 
 import static javax.swing.JOptionPane.showInputDialog;
 import static javax.swing.JOptionPane.showMessageDialog;
-
 /**
- * Det skal lages en klasse kalt Vind. Denne klassen skal beregne ut i fra en oppgitt vindhastighet i km/t
- * om det er stille (mindre enn 2 km/t) og om det er orkan (mer enn 120 km/t).
+ * Lag en klasse med metoder for å beregne ut i fra en oppgitt vindhastighet i km/t
+ * om det er vindstille (mindre enn 2 km/t) og om det er orkan (mer enn 120 km/t).
  * Videre skal klassen kunne beregne hvor mye vindhastigheten tilsvarer på Beaufort-skala (1-12).
- * Formelen for Beaufort er : (((vindhastighet i km/t) / 3.01)^0.6666)+0.5. ^ betyr opphøyd i.
+ * Formelen for Beaufort er : (((vindhastighet i km/t) / 3.01)^0.6666)+0.5.
  * Bruk gjerne Math.pow funksjonen for å foreta beregningen.
  * Til slutt skal det være mulig å regne ut antall knop i en metode. En knop er lik 1852 meter.
  * Bruk desimal formatering: String.format("%.2f", prisen);
- * Nedenfor illustreres hvordan klassen og metodene skal se ut:
- **/
+ * Nedenfor illustreres hvordan klassen og metodene skal se ut: **/
 
 class Vind {
     private double vindHastighet = 0.0;
