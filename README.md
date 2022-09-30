@@ -6,4 +6,16 @@ _PS_. You might need coffeee...
 
 ---
 
-<img src="https://github.com/sirin-koca/Java-Basics/blob/master/java-features.png" width="700">
+## Main features of Java language:
+* Object oriented 
+  1. Encapsulation
+  2. Abstraction   
+  3. Inheritance
+  4. Polymorphism
+* High level language 
+* Platform independent 
+* Easy syntax
+* Multithreaded
+* Secure
+* Robust
+
