@@ -48,16 +48,9 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bank">
+  <component name="RunManager" selected="Application.Fahrenheit (1)">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Beaufort (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beaufort" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,8 +70,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beaufort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beaufort" />
+    <configuration name="Fahrenheit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fahrenheit" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fahrenheit" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fahrenheit (1)" />
+        <item itemvalue="Application.Fahrenheit" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Beaufort (4)" />
         <item itemvalue="Application.Beaufort (3)" />
-        <item itemvalue="Application.Beaufort" />
-        <item itemvalue="Application.Beaufort (2)" />
       </list>
     </recent_temporary>
   </component>
