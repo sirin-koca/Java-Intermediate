@@ -68,7 +68,7 @@ return rads * 180 / PI;
 } 
 
 // An instance field:
-public double r; // The radius of the circle 
+public double r; 
 
 // Two instance methods: they operate on the instance fields of an object 
 public double area() { 
