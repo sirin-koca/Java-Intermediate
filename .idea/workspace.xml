@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java Basic concepts &#10;- Fahrenheit.java converter" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java Basic concepts">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beaufort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beaufort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,20 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Fahrenheit (1)">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank" />
+}</component>
+  <component name="RunManager" selected="Application.Beaufort (4)">
+    <configuration name="Beaufort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beaufort" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Beaufort (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beaufort" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,15 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fahrenheit (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fahrenheit" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fahrenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fahrenheit" />
+    <configuration name="Beaufort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beaufort" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fahrenheit (1)" />
-        <item itemvalue="Application.Fahrenheit" />
-        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Beaufort (4)" />
+        <item itemvalue="Application.Beaufort" />
         <item itemvalue="Application.Beaufort (3)" />
+        <item itemvalue="Application.Beaufort (2)" />
+        <item itemvalue="Application.Beaufort (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +107,9 @@
       <workItem from="1664468362871" duration="188000" />
       <workItem from="1664478636072" duration="3984000" />
       <workItem from="1664484701385" duration="200000" />
-      <workItem from="1664548391069" duration="8748000" />
+      <workItem from="1664548391069" duration="10320000" />
+      <workItem from="1664559862643" duration="139000" />
+      <workItem from="1664560046174" duration="1552000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -184,7 +189,19 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1664557202429</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="Java Basic concepts &#10;- Bank.java">
+      <created>1664557475140</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1664557475140</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Java Basic concepts &#10;- Arrays2.java">
+      <created>1664557568193</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1664557568193</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +220,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java program to convert Fahrenheit and Celsius degrees." />
-    <MESSAGE value="Java Basic concepts" />
     <MESSAGE value="Java Basic concepts - Objects.java" />
     <MESSAGE value="Java Basic concepts - Loops.java" />
     <MESSAGE value="Java Basic concepts - RentesRente.java" />
@@ -213,6 +229,9 @@
     <MESSAGE value="Java Basic concepts - Beaufort.java implemented" />
     <MESSAGE value="Java Basic concepts &#10;- Bank.java, Konto.java, and Beaufort.java implemented" />
     <MESSAGE value="Java Basic concepts &#10;- Fahrenheit.java converter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basic concepts &#10;- Fahrenheit.java converter" />
+    <MESSAGE value="Java Basic concepts &#10;- Bank.java" />
+    <MESSAGE value="Java Basic concepts &#10;- Arrays2.java" />
+    <MESSAGE value="Java Basic concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basic concepts" />
   </component>
 </project>

@@ -7,7 +7,7 @@ import static javax.swing.JOptionPane.showMessageDialog;
  * Videre skal klassen kunne beregne hvor mye vindhastigheten tilsvarer på Beaufort-skala (1-12).
  * Formelen for Beaufort er : (((vindhastighet i km/t) / 3.01)^0.6666)+0.5.
  * Bruk gjerne Math.pow funksjonen for å foreta beregningen.
- * Til slutt skal det være mulig å regne ut antall knop i en metode. En knop er lik 1852 meter.
+ * Til slutt skal det være mulig å regne ut antall knop i en metode. En knop er lik 1.852 meter.
  * Bruk desimal formatering: String.format("%.2f", prisen);
  * Nedenfor illustreres hvordan klassen og metodene skal se ut: **/
 class Vind {
@@ -27,25 +27,28 @@ class Vind {
     }
 
     public boolean erOrkan() {
-        if (vindHastighet > 120) {
+        if (vindHastighet >= 120) {
             return true;
         }
         return false;
     }
     public boolean erVindstille() {
-        if (vindHastighet < 2) {
+        if (vindHastighet <= 2) {
             return true;
         }
         return false;
     }
 
     public double getKnop() {
-        int knop = 1852;
-        return (vindHastighet * knop) / 100;
+        double knop = vindHastighet / 1.852;
+        return knop;
     }
     public int getBeaufort() {
-        double beaufort = (Math.pow((vindHastighet / 3.01), 0.6666) + 0.5);
-        return (int) beaufort;
+        int beaufort = (int) (Math.pow((vindHastighet / 3.01), 0.6666) + 0.5);
+        if(beaufort > 12){
+            beaufort = 12;
+        }
+        return beaufort;
     }
 }
 
@@ -59,7 +62,7 @@ public class Beaufort {
                 "Beaufort skala: " + myVind.getBeaufort() + "\n" +
                 "Orkan risk: " + myVind.erOrkan() + "\n" +
                 "Vindstille: " + myVind.erVindstille() + "\n" +
-                "Knop: " + myVind.getKnop();
+                "Knop: " + String.format("%.2f", myVind.getKnop());
 
         showMessageDialog(null, ut);
 
