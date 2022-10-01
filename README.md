@@ -57,20 +57,27 @@ object references). </br>
 
 ### A simple class and its members
 ```
+// Only one public class 
 public class Circle { 
+
 // A class field  
-public static final double PI= 3.14159; // A useful constant 
-// A class method: just compute a value based on the arguments 
+public static final double PI= 3.14159; 
+
+// A class method:
 public static double radiansToDegrees(double rads) {
 return rads * 180 / PI; 
 } 
-// An instance field 
+
+// An instance field:
 public double r; // The radius of the circle 
+
 // Two instance methods: they operate on the instance fields of an object 
-public double area() { // Compute the area of the circle 
+public double area() { 
 return PI * r * r; 
 } 
-public double circumference() { // Compute the circumference of the circle 
+
+// Compute the circumference of the circle
+public double circumference() {  
 return 2 * PI * r; 
 } 
 } 
