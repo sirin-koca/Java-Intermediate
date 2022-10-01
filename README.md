@@ -33,8 +33,7 @@ _PS_. You might need coffeee...
 ### Java Compared to C++
 • Java has a simplified object model compared to C++. </br>
 • Java’s dispatch is virtual by default. </br>
-• Java is always pass-by-value (but one of the possibilities for Java’s values are
-object references). </br>
+• Java is always pass-by-value (object references). </br>
 • Java does not support full multiple inheritance. </br>
 • Java’s generics are less powerful (but also less dangerous) than C++ templates. </br>
 • Java has no operator overloading. </br>
@@ -47,7 +46,7 @@ object references). </br>
 
 ### Java Compared to JavaScript
 • Java is statically typed; JavaScript is dynamically typed. </br>
-• Java is a compiling language whereas JavaScript is an interpreted scripting language. 
+• Java is a compiling language whereas JavaScript is an interpreted scripting language.</br> 
 • Java uses class-based objects; JavaScript is prototype based. </br>
 • Java provides good object encapsulation; Javascript does not. </br>
 • Java has namespaces; JavaScript does not. </br>
