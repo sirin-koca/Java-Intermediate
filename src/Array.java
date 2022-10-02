@@ -46,8 +46,8 @@ public class Array {
     }
 
     public int indexOf(int item) {
-        //If we fint it, return index
-        //Otherwise, return -1
+        // If we fint it, return index otherwise, return -1
+        // Big O Notation: Runtime complexity for the worst case scenario for this algorith is O(n) in linear time
         for (int i = 0; i < counter; i++) {
             if (items[i] == item)
                 return i;
