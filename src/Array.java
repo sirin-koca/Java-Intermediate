@@ -1,5 +1,3 @@
-import java.util.NoSuchElementException;
-
 public class Array {
     private int[] items;
     private int counter;

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Multiple classes">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Homemade Array Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,7 @@
       <workItem from="1664559862643" duration="139000" />
       <workItem from="1664560046174" duration="1552000" />
       <workItem from="1664630115578" duration="652000" />
-      <workItem from="1664723277721" duration="7113000" />
+      <workItem from="1664723277721" duration="7745000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -235,7 +235,13 @@
       <option name="presentableId" value="LOCAL−00020" />
       <updated>1664734869787</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL−00021" summary="Homemade Array Class">
+      <created>1664740667864</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1664740667864</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +275,7 @@
     <MESSAGE value="Java Basic concepts" />
     <MESSAGE value="Java OOP system" />
     <MESSAGE value="Multiple classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiple classes" />
+    <MESSAGE value="Homemade Array Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homemade Array Class" />
   </component>
 </project>
