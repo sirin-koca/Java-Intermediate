@@ -22,6 +22,8 @@ _PS_. You might need coffeee...
 ---
 
 <img src= "img/java-oops.png" alt="Features of object oriented programming paradigm">
+<!-- image curtosy: www.javatpoint.com -->
+
 ### Java Compared to C
 • Java is object oriented; C is procedural. </br>
 • Java is portable as class files; C needs to be recompiled. </br>
