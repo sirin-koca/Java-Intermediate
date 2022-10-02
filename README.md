@@ -5,14 +5,13 @@
 _PS_. You might need coffeee...
 
 ---
-
 ## Main features of Java:
 * Object oriented language
-* High level language 
+* High level programming 
 * Platform independent 
 * Portable - The WORA (Write Once Run Anywhere)
-* Easy syntax
 * Multithreaded
+* Easy syntax
 * Secure
 * Robust
 ---
