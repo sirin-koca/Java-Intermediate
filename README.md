@@ -7,7 +7,7 @@ _PS_. You might need coffeee...
 ---
 
 ## Main features of Java:
-* Object oriented 
+* Object oriented language
   1. Encapsulation
   2. Abstraction   
   3. Inheritance
@@ -21,6 +21,7 @@ _PS_. You might need coffeee...
 * Robust
 ---
 
+<img src= "img/java-oops.png" alt="Features of object oriented programming paradigm">
 ### Java Compared to C
 • Java is object oriented; C is procedural. </br>
 • Java is portable as class files; C needs to be recompiled. </br>
