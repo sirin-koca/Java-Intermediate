@@ -85,6 +85,11 @@ return 2 * PI * r;
 } 
 ```
 
+Sources:
+* [Java Docs by Oracle](https://docs.oracle.com/en/java/)
+* [Java Tutorials](https://www.javatpoint.com/java-oops-concepts)
+* [Dev Java](https://dev.java/)
 ---
 
 **[⬆ back to top](#)**
+
