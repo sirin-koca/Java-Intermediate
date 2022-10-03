@@ -1,6 +1,6 @@
 # Java-Basics 🤖
 
-## Basic Java Programs to deep dive into the World of Java: [src](https://github.com/sirin-koca/Java-Basics/tree/master/src)
+## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) to deep dive into the World of Java!
 
 _PS_. You might need coffeee...
 
