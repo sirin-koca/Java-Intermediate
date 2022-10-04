@@ -1,4 +1,4 @@
-# Java Fundamentals ☕
+# Java Basics
 
 ## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
 
