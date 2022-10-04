@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Homemade Array Class">
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Runtime comlexity for the method indexOf()">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,9 @@
       <workItem from="1664559862643" duration="139000" />
       <workItem from="1664560046174" duration="1552000" />
       <workItem from="1664630115578" duration="652000" />
-      <workItem from="1664723277721" duration="8069000" />
+      <workItem from="1664723277721" duration="8151000" />
+      <workItem from="1664766308535" duration="15000" />
+      <workItem from="1664910981648" duration="11000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -246,7 +248,13 @@
       <option name="presentableId" value="LOCAL−00022" />
       <updated>1664741002638</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL−00023" summary="Runtime comlexity for the method indexOf()">
+      <created>1664741352079</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1664741352079</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +289,7 @@
     <MESSAGE value="Java OOP system" />
     <MESSAGE value="Multiple classes" />
     <MESSAGE value="Homemade Array Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homemade Array Class" />
+    <MESSAGE value="Runtime comlexity for the method indexOf()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Runtime comlexity for the method indexOf()" />
   </component>
 </project>
