@@ -20,6 +20,7 @@ _PS_. You might need coffeee...
 
 <img src= "img/java-oops.png" alt="Features of object oriented programming paradigm">
 <!-- image curtosy: www.javatpoint.com -->
+
 ---
 
 ### Java Compared to C
