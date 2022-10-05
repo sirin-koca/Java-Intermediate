@@ -1,4 +1,5 @@
-# Java Basics
+# Java Basics<img src= "img/java.png" alt="An illustration of The javac tool" width="50" align="center">
+
 
 ## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
 
@@ -19,6 +20,8 @@ _PS_. You might need coffeee...
 
 <img src= "img/java-oops.png" alt="Features of object oriented programming paradigm">
 <!-- image curtosy: www.javatpoint.com -->
+
+---
 
 ### Java Compared to C
 • Java is object oriented; C is procedural. </br>
