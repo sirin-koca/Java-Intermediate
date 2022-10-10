@@ -3,7 +3,7 @@
 
 ## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
 
-_PS_. You might need coffeee...
+_PS_: You might need coffeee...
 
 ---
 ## Main features of Java:
