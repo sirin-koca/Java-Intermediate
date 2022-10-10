@@ -44,7 +44,7 @@ public class ConditionalStatements {
             myndig = true;
         }
         if(myndig && !førerkort){
-            showMessageDialog(null, "Selv om du er myndig kan du ikke kjøre bil!");
+            showMessageDialog(null, "Selv om du er myndig kan du ikke kjøre Arrays.bil!");
         }
         // if(myndig == true && førerkort == false)
 

@@ -1,8 +1,9 @@
+package Arrays;
 
 public class Arrays2 {
 
     public static void main(String[] args) {
-        int [][] tabell = new int [2][2];  // Array inni array
+        int [][] tabell = new int [2][2];  // Arrays.Array inni array
         tabell[0][0] = 2;
         tabell[0][1] = 3;
         tabell[1][0] = 4;

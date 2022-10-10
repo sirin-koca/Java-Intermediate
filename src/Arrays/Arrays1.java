@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Arrays;
 
 class Person { public String navn;  public int alder; }
@@ -23,7 +25,7 @@ public class Arrays1 {
 
         Person[] personListe = new Person[3];   // Oppretter et nytt array av lengden 3
 
-        Person ole = new Person();   // Oppretter Ole-objektet av Person-klassen
+        Person ole = new Person();   // Oppretter Ole-objektet av Arrays.Person-klassen
         ole.navn = "Ole";
         ole.alder = 23;
 

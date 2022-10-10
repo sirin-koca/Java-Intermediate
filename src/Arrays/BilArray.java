@@ -1,3 +1,5 @@
+package Arrays;
+
 class bil{
     private String farge;
 
@@ -16,7 +18,7 @@ public class BilArray {
     // dersom vi skal bruke den i flere metoder i denne klassen
 
     public static void main(String[] args) {
-        //bil [] liste = new bil[5];
+        //Arrays.bil [] liste = new Arrays.bil[5];
 
         bil volvo = new bil("blå");
         bil audi = new bil("rød");
