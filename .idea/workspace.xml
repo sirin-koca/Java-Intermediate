@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Fibonacci numbers">
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="New section for Arrays.">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Arrays1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Arrays2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Circle">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Array" />
       <module name="Java Basics" />
@@ -67,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beaufort (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beaufort" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circle" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Arrays2" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.MultipleClasses" />
-        <item itemvalue="Application.Beaufort (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +119,7 @@
       <workItem from="1664927821624" duration="1343000" />
       <workItem from="1664989903502" duration="13000" />
       <workItem from="1665431691996" duration="29000" />
-      <workItem from="1665442842674" duration="169000" />
+      <workItem from="1665442842674" duration="969000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -273,7 +271,13 @@
       <option name="presentableId" value="LOCAL−00025" />
       <updated>1664928846750</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL−00026" summary="New section for Arrays.">
+      <created>1665443129470</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1665443129471</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +315,7 @@
     <MESSAGE value="Runtime comlexity for the method indexOf()" />
     <MESSAGE value="Java Basic Concepts" />
     <MESSAGE value="Fibonacci numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci numbers" />
+    <MESSAGE value="New section for Arrays." />
+    <option name="LAST_COMMIT_MESSAGE" value="New section for Arrays." />
   </component>
 </project>
