@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="New section for Arrays.">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Circle.java">
+      <change afterPath="$PROJECT_DIR$/src/Comparable_Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Circle">
+  <component name="RunManager" selected="Application.Comparable_Interface">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Array" />
       <module name="Java Basics" />
@@ -72,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Comparable_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparable_Interface" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="Java Basics" />
@@ -79,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultipleClasses" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comparable_Interface" />
         <item itemvalue="Application.Circle" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Arrays2" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.MultipleClasses" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +119,9 @@
       <workItem from="1664927821624" duration="1343000" />
       <workItem from="1664989903502" duration="13000" />
       <workItem from="1665431691996" duration="29000" />
-      <workItem from="1665442842674" duration="969000" />
+      <workItem from="1665442842674" duration="1830000" />
+      <workItem from="1665530501874" duration="27000" />
+      <workItem from="1665613473623" duration="4408000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -277,7 +279,13 @@
       <option name="presentableId" value="LOCAL−00026" />
       <updated>1665443129471</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL−00027" summary="Circle.java">
+      <created>1665444081236</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1665444081236</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +324,7 @@
     <MESSAGE value="Java Basic Concepts" />
     <MESSAGE value="Fibonacci numbers" />
     <MESSAGE value="New section for Arrays." />
-    <option name="LAST_COMMIT_MESSAGE" value="New section for Arrays." />
+    <MESSAGE value="Circle.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Circle.java" />
   </component>
 </project>
