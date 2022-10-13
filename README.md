@@ -1,4 +1,4 @@
-# Java Basics<img src= "https://github.com/sirin-koca/Java-Basics/blob/master/java-logo-bw.png" alt="An illustration of The javac tool" width="45" align="center">
+# Java Basics<img src= "img/java-logo-bw.png" alt="An illustration of The javac tool" width="45" align="center">
 
 
 ## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
