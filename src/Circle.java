@@ -28,7 +28,9 @@ public class Circle {
         Circle myCircle = new Circle();
 
         double area = myCircle.area(3);
-        System.out.printf("%.2f%n", area);  // Decimal format 2 points after comma: print(String.format("%.2f", area));
+        System.out.printf("%.2f%n", area);
+        // Decimal format 2 points after comma: print(String.format("%.2f", area));
+        // IntelliJ wants to write the decimalformat with printf("%.2f%n", area);
 
         double circumference = myCircle.circumference(4);
         System.out.printf("%.2f%n", circumference);
