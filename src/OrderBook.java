@@ -73,8 +73,8 @@ public class OrderBook {
             int id = Integer.parseInt(inID);
             double price = Double.parseDouble(inPrice);
 
-            Book book1 = new Book(titel, author, id, price);
-            String out = book1.printOut();
+            Book books1 = new Book(titel, author, id, price);
+            String out = books1.printOut();
 
             if (price > 0 && id > 0 && titel != null && author != null) {
                 showMessageDialog(null, out);

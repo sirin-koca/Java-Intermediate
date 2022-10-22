@@ -15,7 +15,7 @@ public class RentesRente {
         JTextArea tekstområde = new JTextArea();
 
         // lager overskrift i tekstområdet
-        tekstområde.setText("år\ttotalbeløp\n");
+        tekstområde.setText("År\tTotalbeløp\n");
 
         // beregner totalbeløp for hvert år i 10 år
         for (int år = 1; år <= 10; år++) {

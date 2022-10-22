@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java">
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java basics">
+      <change afterPath="$PROJECT_DIR$/src/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecimalFormatEks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kalkulator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/RentesRente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RentesRente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,37 +57,37 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RentesRente">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Array" />
+  <component name="RunManager" selected="Application.BookStore (1)">
+    <configuration name="BookStore (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookStore" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Circle" />
+    <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookStore" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comparable_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comparable_Interface" />
+    <configuration name="DecimalFormatEks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalFormatEks" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kalkulator" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RentesRente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RentesRente" />
+    <configuration name="OrderBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrderBook" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RentesRente" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Comparable_Interface" />
-        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.BookStore (1)" />
+        <item itemvalue="Application.BookStore" />
+        <item itemvalue="Application.OrderBook" />
+        <item itemvalue="Application.Kalkulator" />
+        <item itemvalue="Application.DecimalFormatEks" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +132,8 @@
       <workItem from="1665662779525" duration="763000" />
       <workItem from="1665693343899" duration="895000" />
       <workItem from="1666211417728" duration="10000" />
-      <workItem from="1666450172799" duration="1422000" />
+      <workItem from="1666450172799" duration="2177000" />
+      <workItem from="1666480160824" duration="2142000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -309,7 +315,13 @@
       <option name="presentableId" value="LOCAL−00030" />
       <updated>1665662914858</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL−00031" summary="Java basics">
+      <created>1666451839927</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1666451839927</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +363,7 @@
     <MESSAGE value="Circle.java" />
     <MESSAGE value="Comparable_Interface.java" />
     <MESSAGE value="java-logo-bw" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-logo-bw" />
+    <MESSAGE value="Java basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java basics" />
   </component>
 </project>
