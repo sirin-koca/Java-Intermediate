@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="new class: Clock is implemented">
-      <change beforePath="$PROJECT_DIR$/src/ShowMeTheClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShowMeTheClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Statements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionalStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionalStatements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +54,22 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShowMeTheClock">
-    <configuration name="ShowMeTheClock (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowMeTheClock" />
+  <component name="RunManager" selected="Application.ConditionalStatements">
+    <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowMeTheClock (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowMeTheClock" />
+    <configuration name="If_Statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If_Statements" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowMeTheClock (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ShowMeTheClock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShowMeTheClock" />
       <module name="Java Basics" />
       <method v="2">
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConditionalStatements" />
+        <item itemvalue="Application.If_Statements" />
+        <item itemvalue="Application.ShowMeTheClock (1)" />
         <item itemvalue="Application.ShowMeTheClock" />
         <item itemvalue="Application.ShowMeTheClock (5)" />
-        <item itemvalue="Application.ShowMeTheClock (4)" />
-        <item itemvalue="Application.ShowMeTheClock (3)" />
-        <item itemvalue="Application.ShowMeTheClock (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +132,7 @@
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
       <workItem from="1666527660231" duration="3048000" />
-      <workItem from="1666530778630" duration="3334000" />
+      <workItem from="1666530778630" duration="4060000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -348,7 +350,13 @@
       <option name="presentableId" value="LOCAL−00036" />
       <updated>1666537811447</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL−00037" summary="new class: Clock is implemented">
+      <created>1666537848395</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1666537848395</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -7,7 +7,7 @@ public class ConditionalStatements {
         String innAlder = showInputDialog("Skriv inn alderen din");
         int alder = Integer.parseInt(innAlder);
         if(alder < 13){
-            showMessageDialog(null, "Du er jo bare barnet");
+            showMessageDialog(null, "Du er jo bare barn");
         }
         if(alder >= 13 && alder < 18){
             showMessageDialog(null, "Du er ungdom");
@@ -31,7 +31,7 @@ public class ConditionalStatements {
             showMessageDialog(null, "Du er ungdom");
         }
         else{
-            showMessageDialog(null, "Du er jo bare barnet");
+            showMessageDialog(null, "Du er bare barnet");
         }
 
         String innStreng = showInputDialog("Har du førerkort ? (J/N)");
@@ -44,7 +44,7 @@ public class ConditionalStatements {
             myndig = true;
         }
         if(myndig && !førerkort){
-            showMessageDialog(null, "Selv om du er myndig kan du ikke kjøre Arrays.bil!");
+            showMessageDialog(null, "Selv om du er myndig kan du ikke kjøre bil.");
         }
         // if(myndig == true && førerkort == false)
 
@@ -84,16 +84,16 @@ public class ConditionalStatements {
         if(poeng > 0 && poeng < 4){
             showMessageDialog(null, "F");
         }
-        if(poeng >= 4 && poeng < 5){
+        if(poeng == 4){
             showMessageDialog(null, "E");
         }
-        if(poeng >= 5 && poeng < 6){
+        if(poeng == 5){
             showMessageDialog(null, "D");
         }
         if(poeng >= 6 && poeng < 8){
             showMessageDialog(null, "C");
         }
-        if(poeng >=8  && poeng < 9){
+        if(poeng == 8){
             showMessageDialog(null, "B");
         }
         if(poeng >= 9){
