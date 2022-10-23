@@ -7,14 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java basics">
-      <change afterPath="$PROJECT_DIR$/src/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecimalFormatEks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrderBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RentesRente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RentesRente.java" afterDir="false" />
-    </list>
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java basics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +126,7 @@
       <workItem from="1665693343899" duration="895000" />
       <workItem from="1666211417728" duration="10000" />
       <workItem from="1666450172799" duration="2177000" />
-      <workItem from="1666480160824" duration="2142000" />
+      <workItem from="1666480160824" duration="2337000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -321,7 +314,13 @@
       <option name="presentableId" value="LOCAL−00031" />
       <updated>1666451839927</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL−00032" summary="Java basics">
+      <created>1666482462354</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1666482462354</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

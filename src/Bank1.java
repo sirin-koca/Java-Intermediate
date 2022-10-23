@@ -38,7 +38,7 @@ class Konto {
 /**
  * Bruk Konto klassen for å skrive ut saldoen.
  **/
-public class Bank {
+public class Bank1 {
     public static void main(String[] args) {
         Konto sparekonto = new Konto("12345678901", "Per Hansen", 1000);
         Konto lonnskonto = new Konto("12345678901", "Per Hansen", 0);
