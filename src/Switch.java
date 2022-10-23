@@ -1,6 +1,6 @@
 import static javax.swing.JOptionPane.*;
 
-public class Switch1 {
+public class Switch {
     public static void main(String[] args) {
         int result = 0;
         int num1 = Integer.parseInt(showInputDialog("Write a number:"));
