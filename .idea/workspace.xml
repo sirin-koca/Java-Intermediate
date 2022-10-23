@@ -7,9 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java basics">
-      <change afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="understandRecursion() implemented">
+      <change afterPath="$PROJECT_DIR$/img/recursion.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Recursion (2)">
+  <component name="RunManager" selected="Application.Recursion (3)">
     <configuration name="Recursion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
@@ -68,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Recursion (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
@@ -91,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recursion (2)" />
+        <item itemvalue="Application.Recursion (3)" />
         <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.Recursion (2)" />
         <item itemvalue="Application.Recursion (1)" />
         <item itemvalue="Application.Recursion (5)" />
-        <item itemvalue="Application.Recursion (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +132,8 @@
       <workItem from="1666211417728" duration="10000" />
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
-      <workItem from="1666527660231" duration="2438000" />
+      <workItem from="1666527660231" duration="3048000" />
+      <workItem from="1666530778630" duration="595000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -330,7 +333,13 @@
       <option name="presentableId" value="LOCAL−00033" />
       <updated>1666527973038</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL−00034" summary="understandRecursion() implemented">
+      <created>1666530320336</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1666530320336</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +382,7 @@
     <MESSAGE value="Comparable_Interface.java" />
     <MESSAGE value="java-logo-bw" />
     <MESSAGE value="Java basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java basics" />
+    <MESSAGE value="understandRecursion() implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="understandRecursion() implemented" />
   </component>
 </project>

@@ -3,7 +3,7 @@ import static javax.swing.JOptionPane.*;
 class Recursive{
     public boolean understandRecursion(String doIUnderstandRecursion) {
 
-    String recursionAnswer = showInputDialog(null, "Do you understand recursion?\nPlease type: Y/N");
+        String recursionAnswer = showInputDialog(null, "Do you understand recursion?\nPlease type: Y/N");
         if(recursionAnswer.equals("Y")) { // base case
             showMessageDialog(null, "Good job!");
             return true;
@@ -24,4 +24,3 @@ public class Recursion {
         call.understandRecursion("");
     }
 }
-
