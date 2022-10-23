@@ -1,3 +1,5 @@
+package ControlStructures;
+
 import static javax.swing.JOptionPane.*;
 
 public class Switch {

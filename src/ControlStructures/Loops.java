@@ -1,3 +1,5 @@
+package ControlStructures;
+
 import static javax.swing.JOptionPane.showInputDialog;
 import static javax.swing.JOptionPane.showMessageDialog;
 

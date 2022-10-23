@@ -7,8 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PrimeNumberChecker">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumberGenerator.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PrimeNumberGenerator">
+      <change afterPath="$PROJECT_DIR$/src/ControlStructures/Gjennomsnitt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gjennomsnitt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/Gjennomsnitt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/If_Statements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/If_Statements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +58,20 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumberGenerator">
+  <component name="RunManager" selected="Application.Gjennomsnitt2">
+    <configuration name="Gjennomsnitt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlStructures.Gjennomsnitt2" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControlStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumberChecker" />
       <module name="Java Basics" />
@@ -62,13 +81,6 @@
     </configuration>
     <configuration name="PrimeNumberGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumberGenerator" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gjennomsnitt2" />
         <item itemvalue="Application.PrimeNumberGenerator" />
         <item itemvalue="Application.PrimeNumberChecker" />
         <item itemvalue="Application.Recursion (3)" />
         <item itemvalue="Application.Recursion (2)" />
-        <item itemvalue="Application.Recursion (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +142,7 @@
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
       <workItem from="1666527660231" duration="3048000" />
-      <workItem from="1666530778630" duration="11327000" />
+      <workItem from="1666530778630" duration="12070000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -408,7 +420,13 @@
       <option name="presentableId" value="LOCAL−00046" />
       <updated>1666545616481</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL−00047" summary="PrimeNumberGenerator">
+      <created>1666545966518</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1666545966518</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +445,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic concepts - Beaufort.java implemented" />
     <MESSAGE value="Java Basic concepts &#10;- Bank.java, Konto.java, and Beaufort.java implemented" />
     <MESSAGE value="Java Basic concepts &#10;- Fahrenheit.java converter" />
     <MESSAGE value="Java Basic concepts &#10;- Bank.java" />
@@ -452,6 +469,7 @@
     <MESSAGE value="WhileLoop with try-catch" />
     <MESSAGE value="doYouUnderstandRecursion()" />
     <MESSAGE value="PrimeNumberChecker" />
-    <option name="LAST_COMMIT_MESSAGE" value="PrimeNumberChecker" />
+    <MESSAGE value="PrimeNumberGenerator" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrimeNumberGenerator" />
   </component>
 </project>
