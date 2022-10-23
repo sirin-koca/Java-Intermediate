@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="doYouUnderstandRecursion()">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PrimeNumberChecker">
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumberGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumberChecker">
+  <component name="RunManager" selected="Application.PrimeNumberGenerator">
     <configuration name="PrimeNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumberChecker" />
       <module name="Java Basics" />
@@ -91,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumberChecker" />
         <item itemvalue="Application.PrimeNumberGenerator" />
+        <item itemvalue="Application.PrimeNumberChecker" />
         <item itemvalue="Application.Recursion (3)" />
         <item itemvalue="Application.Recursion (2)" />
         <item itemvalue="Application.Recursion (1)" />
@@ -131,7 +130,7 @@
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
       <workItem from="1666527660231" duration="3048000" />
-      <workItem from="1666530778630" duration="10978000" />
+      <workItem from="1666530778630" duration="11327000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -403,7 +402,13 @@
       <option name="presentableId" value="LOCAL−00045" />
       <updated>1666544577672</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL−00046" summary="PrimeNumberChecker">
+      <created>1666545616481</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1666545616481</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +427,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic concepts - OrderBook.java.java" />
     <MESSAGE value="Java Basic concepts - Beaufort.java implemented" />
     <MESSAGE value="Java Basic concepts &#10;- Bank.java, Konto.java, and Beaufort.java implemented" />
     <MESSAGE value="Java Basic concepts &#10;- Fahrenheit.java converter" />
@@ -447,6 +451,7 @@
     <MESSAGE value="Lets roll the Dice.java" />
     <MESSAGE value="WhileLoop with try-catch" />
     <MESSAGE value="doYouUnderstandRecursion()" />
-    <option name="LAST_COMMIT_MESSAGE" value="doYouUnderstandRecursion()" />
+    <MESSAGE value="PrimeNumberChecker" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrimeNumberChecker" />
   </component>
 </project>
