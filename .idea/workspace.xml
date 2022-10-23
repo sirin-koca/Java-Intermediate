@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java basics" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Java basics">
+      <change afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,37 +53,37 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BookStore (1)">
-    <configuration name="BookStore (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookStore" />
+  <component name="RunManager" selected="Application.Recursion (2)">
+    <configuration name="Recursion (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookStore" />
+    <configuration name="Recursion (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalFormatEks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalFormatEks" />
+    <configuration name="Recursion (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kalkulator" />
+    <configuration name="Recursion (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrderBook" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookStore (1)" />
-        <item itemvalue="Application.BookStore" />
-        <item itemvalue="Application.OrderBook" />
-        <item itemvalue="Application.Kalkulator" />
-        <item itemvalue="Application.DecimalFormatEks" />
+        <item itemvalue="Application.Recursion (2)" />
+        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.Recursion (1)" />
+        <item itemvalue="Application.Recursion (5)" />
+        <item itemvalue="Application.Recursion (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +130,7 @@
       <workItem from="1666211417728" duration="10000" />
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
+      <workItem from="1666527660231" duration="2438000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -320,7 +324,13 @@
       <option name="presentableId" value="LOCAL−00032" />
       <updated>1666482462354</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL−00033" summary="Java basics">
+      <created>1666527973038</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1666527973038</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
