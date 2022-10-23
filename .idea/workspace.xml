@@ -7,8 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Lets roll the Dice.java">
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="WhileLoop with try-catch">
+      <change afterPath="$PROJECT_DIR$/src/EvenOdd_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gjennomsnitt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +54,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WhileLoop">
-    <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalStatements" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Gjennomsnitt">
     <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dice" />
       <module name="Java Basics" />
@@ -68,8 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If_Statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If_Statements" />
+    <configuration name="EvenOdd_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOdd_Scanner" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gjennomsnitt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gjennomsnitt" />
       <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gjennomsnitt" />
+        <item itemvalue="Application.EvenOdd_Scanner" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.Dice" />
         <item itemvalue="Application.Switch1" />
-        <item itemvalue="Application.ConditionalStatements" />
-        <item itemvalue="Application.If_Statements" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,7 @@
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
       <workItem from="1666527660231" duration="3048000" />
-      <workItem from="1666530778630" duration="7883000" />
+      <workItem from="1666530778630" duration="9398000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -385,7 +386,13 @@
       <option name="presentableId" value="LOCAL−00042" />
       <updated>1666540910148</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL−00043" summary="WhileLoop with try-catch">
+      <created>1666542710696</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1666542710696</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +411,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic concepts - Tabels.java" />
     <MESSAGE value="Java Basic concepts - BilArray.java" />
     <MESSAGE value="Java Basic concepts - OrderBook.java.java" />
     <MESSAGE value="Java Basic concepts - Beaufort.java implemented" />
@@ -429,6 +435,7 @@
     <MESSAGE value="if-statements added to the repo" />
     <MESSAGE value="Switch-statement" />
     <MESSAGE value="Lets roll the Dice.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lets roll the Dice.java" />
+    <MESSAGE value="WhileLoop with try-catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="WhileLoop with try-catch" />
   </component>
 </project>
