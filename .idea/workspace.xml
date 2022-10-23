@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="understandRecursion() implemented">
-      <change afterPath="$PROJECT_DIR$/src/ShowMeTheClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="new class: Clock is implemented">
+      <change beforePath="$PROJECT_DIR$/src/ShowMeTheClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShowMeTheClock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +130,7 @@
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
       <workItem from="1666527660231" duration="3048000" />
-      <workItem from="1666530778630" duration="3102000" />
+      <workItem from="1666530778630" duration="3334000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -343,7 +342,13 @@
       <option name="presentableId" value="LOCAL−00035" />
       <updated>1666531694284</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL−00036" summary="new class: Clock is implemented">
+      <created>1666537811447</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1666537811447</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +367,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java program to convert Fahrenheit and Celsius degrees." />
     <MESSAGE value="Java Basic concepts - Objects.java" />
     <MESSAGE value="Java Basic concepts - Loops.java" />
     <MESSAGE value="Java Basic concepts - RentesRente.java" />
@@ -387,6 +391,7 @@
     <MESSAGE value="java-logo-bw" />
     <MESSAGE value="Java basics" />
     <MESSAGE value="understandRecursion() implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="understandRecursion() implemented" />
+    <MESSAGE value="new class: Clock is implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="new class: Clock is implemented" />
   </component>
 </project>

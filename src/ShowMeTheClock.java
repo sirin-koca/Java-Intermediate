@@ -3,11 +3,7 @@ Klassen skal ha en konstruktør som initialiserer alle attributtene. Lag også g
 * Set metodene skal sjekke om inndataene er korrekte (0-24 timer, 0-59 på de to andre). Lag så en metode "visTiden" som
 skriver ut tiden enten på System.out eller som meldingsboks på følgende format tt : mm : ss.
 Skriv så kode i main for å teste ut denne klassen. */
-
-import javax.swing.*;
-
 import static javax.swing.JOptionPane.showMessageDialog;
-
 class Clock {
     private int hour = 0;
     private int minutes = 0;
