@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Switch-statement">
-      <change afterPath="$PROJECT_DIR$/src/Dice.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Lets roll the Dice.java">
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Dice">
+  <component name="RunManager" selected="Application.WhileLoop">
     <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalStatements" />
       <module name="Java Basics" />
@@ -75,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowMeTheClock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowMeTheClock" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Switch" />
       <module name="Java Basics" />
@@ -89,13 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
+      <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.Dice" />
         <item itemvalue="Application.Switch1" />
         <item itemvalue="Application.ConditionalStatements" />
         <item itemvalue="Application.If_Statements" />
-        <item itemvalue="Application.ShowMeTheClock (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <workItem from="1666450172799" duration="2177000" />
       <workItem from="1666480160824" duration="2337000" />
       <workItem from="1666527660231" duration="3048000" />
-      <workItem from="1666530778630" duration="6296000" />
+      <workItem from="1666530778630" duration="7883000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -379,7 +379,13 @@
       <option name="presentableId" value="LOCAL−00041" />
       <updated>1666539862191</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL−00042" summary="Lets roll the Dice.java">
+      <created>1666540910148</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1666540910148</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +404,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic concepts - RentesRente.java" />
     <MESSAGE value="Java Basic concepts - Tabels.java" />
     <MESSAGE value="Java Basic concepts - BilArray.java" />
     <MESSAGE value="Java Basic concepts - OrderBook.java.java" />
@@ -423,6 +428,7 @@
     <MESSAGE value="new class: Clock is implemented" />
     <MESSAGE value="if-statements added to the repo" />
     <MESSAGE value="Switch-statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch-statement" />
+    <MESSAGE value="Lets roll the Dice.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lets roll the Dice.java" />
   </component>
 </project>
