@@ -1,6 +1,6 @@
 import static javax.swing.JOptionPane.*;
 
-public class Variables {
+public class JoptionPane {
 
     public static void main(String[] args) {
         String navn, adresse;
@@ -45,15 +45,15 @@ public class Variables {
         String innNavn2 = showInputDialog("Skriv inn navnet");
         String innAlder = showInputDialog("Skriv inn alderen");
         int alder = Integer.parseInt(innAlder);
-        int fødselsår = 2018-alder;
+        int fødselsår = 2022-alder;
         showMessageDialog(null, innNavn2+" er født "+fødselsår);
         // desimaltall
         String innString1 = showInputDialog("Skriv inn et desimaltall:"); // kan også sette inn et heltall!
         String innString2 = showInputDialog("Skriv inn et desimaltall til:");
         double innTall1 = Double.parseDouble(innString1);
         double innTall2 = Double.parseDouble(innString2);
-        double divisjon = innTall1 / innTall2;
-        showMessageDialog(null, innTall1+" delt på "+innTall2+" blir "+divisjon);
+        double divisjon = (double) innTall1 / innTall2;
+        showMessageDialog(null, innTall1+" delt på "+innTall2+" blir "+ String.format("%.2f", divisjon));
         // hva skjer dersom vi skriver inn et desimal tall for alderen?
         // hva skjer dersom vi skriver inn tekst isteden for desimaltall?
         // hva skjer dersom vi setter 0 i nevneren i divisjonen?
@@ -76,6 +76,6 @@ public class Variables {
         catch(Exception e){
             tall = 0;
         }
-        showMessageDialog(null, "Tallet er nå "+tall);
+        showMessageDialog(null, "Du har skrevet: "+tall);
     }
 }
