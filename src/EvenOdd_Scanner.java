@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// Java.util Scanner-class is a simple text-scanner
+// Scanner sc = new Scanner(System.in);  int i = sc.nextInt()
+
 public class EvenOdd_Scanner {
 
     public static void main(String[] args) {
