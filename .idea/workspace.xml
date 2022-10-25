@@ -7,10 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Examples on control structures">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArraysToString.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Examples on ArraysToString.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JoptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArraysToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArraysToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookObjects.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraysToString">
+  <component name="RunManager" selected="Application.BookObjects">
     <configuration name="ArraysToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArraysToString" />
       <module name="Java Basics" />
@@ -64,6 +64,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookObjects" />
+      <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,13 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumberChecker" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrimeNumberGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumberGenerator" />
       <module name="Java Basics" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookObjects" />
         <item itemvalue="Application.ArraysToString" />
         <item itemvalue="Application.JoptionPane" />
         <item itemvalue="Application.Gjennomsnitt2" />
         <item itemvalue="Application.PrimeNumberGenerator" />
-        <item itemvalue="Application.PrimeNumberChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,7 @@
       <workItem from="1666527660231" duration="3048000" />
       <workItem from="1666530778630" duration="12481000" />
       <workItem from="1666611115017" duration="11000" />
-      <workItem from="1666647774709" duration="1193000" />
+      <workItem from="1666647774709" duration="2660000" />
     </task>
     <task id="LOCAL−00001" summary="Java program to convert Fahrenheit and Celsius degrees.">
       <created>1664456068692</created>
@@ -436,7 +436,13 @@
       <option name="presentableId" value="LOCAL−00048" />
       <updated>1666546744762</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL−00049" summary="Examples on ArraysToString.java">
+      <created>1666649331219</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1666649331219</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic concepts &#10;- Fahrenheit.java converter" />
     <MESSAGE value="Java Basic concepts &#10;- Bank.java" />
     <MESSAGE value="Java Basic concepts &#10;- Arrays2.java" />
     <MESSAGE value="Java Basic concepts" />
@@ -480,6 +485,7 @@
     <MESSAGE value="PrimeNumberChecker" />
     <MESSAGE value="PrimeNumberGenerator" />
     <MESSAGE value="Examples on control structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples on control structures" />
+    <MESSAGE value="Examples on ArraysToString.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples on ArraysToString.java" />
   </component>
 </project>
