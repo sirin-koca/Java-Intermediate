@@ -1,8 +1,15 @@
 package Methods;
 
-public class BooleanMethod {
+public class BooleanVariables {
     public static void main(String[] args) {
 
+/*
+    if (some_condition) {
+    return true;
+    }
+    return false;
+
+*/
         boolean passedDATS2300 = true;
         boolean passedDAFE2200 = true;
         boolean passedDAPE1300 = true;
@@ -29,5 +36,6 @@ public class BooleanMethod {
         if (counter == 3){
             System.out.println("Congrats!");
         }
+
     }
 }

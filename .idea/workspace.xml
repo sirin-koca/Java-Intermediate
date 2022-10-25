@@ -7,9 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Basic Java concepts - Scanner">
-      <change afterPath="$PROJECT_DIR$/src/Methods/BooleanMethod.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="BooleanMethod.java">
+      <change afterPath="$PROJECT_DIR$/src/Methods/MethodCall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/BooleanMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/BooleanVariables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,42 +55,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BooleanMethod">
-    <configuration name="BookObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.BookObjects" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.BookObjects" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BookStore" />
-      <module name="Java Basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BooleanMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.BooleanMethod" />
+  <component name="RunManager" selected="Application.MethodCall">
+    <configuration name="MethodCall (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MethodCall" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +69,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.JavaMethods" />
+    <configuration name="MethodCall (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MethodCall" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCall (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MethodCall" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCall (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MethodCall" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.MethodCall" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BooleanMethod" />
-        <item itemvalue="Application.BookStore" />
-        <item itemvalue="Application.BookObjects" />
-        <item itemvalue="Application.BookObjects (1)" />
-        <item itemvalue="Application.JavaMethods" />
+        <item itemvalue="Application.MethodCall" />
+        <item itemvalue="Application.MethodCall (3)" />
+        <item itemvalue="Application.MethodCall (2)" />
+        <item itemvalue="Application.MethodCall (1)" />
+        <item itemvalue="Application.MethodCall (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,13 +169,7 @@
       <workItem from="1666687801451" duration="419000" />
       <workItem from="1666688557030" duration="282000" />
       <workItem from="1666688992053" duration="1311000" />
-      <workItem from="1666735906634" duration="328000" />
-    </task>
-    <task id="LOCAL−00007" summary="Java Basic concepts - Tabels.java">
-      <created>1664483016447</created>
-      <option name="number" value="LOCAL−00007" />
-      <option name="presentableId" value="LOCAL−00007" />
-      <updated>1664483016447</updated>
+      <workItem from="1666735906634" duration="1774000" />
     </task>
     <task id="LOCAL−00008" summary="Java Basic concepts - BilArray.java">
       <created>1664484895367</created>
@@ -458,7 +459,13 @@
       <option name="presentableId" value="LOCAL−00055" />
       <updated>1666689872807</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL−00056" summary="BooleanMethod.java">
+      <created>1666736301714</created>
+      <option name="number" value="LOCAL−00056" />
+      <option name="presentableId" value="LOCAL−00056" />
+      <updated>1666736301714</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +484,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java OOP system" />
     <MESSAGE value="Multiple classes" />
     <MESSAGE value="Homemade Array Class" />
     <MESSAGE value="Runtime comlexity for the method indexOf()" />
@@ -502,6 +508,7 @@
     <MESSAGE value="Examples on Java-methods" />
     <MESSAGE value="Examples on Java-methods and objects" />
     <MESSAGE value="Basic Java concepts - Scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Java concepts - Scanner" />
+    <MESSAGE value="BooleanMethod.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="BooleanMethod.java" />
   </component>
 </project>
