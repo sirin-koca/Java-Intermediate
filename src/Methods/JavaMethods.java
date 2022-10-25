@@ -1,12 +1,10 @@
 package Methods;
 
 /*
-* There are two types of methods in Java:*
-1- Predefined Method (library / built-in methods):
-* Eg. length(), equals(), compareTo(), sqrt(), main(), print(), and max().*
-2- User-defined Method:
-* The method written by the developer/programmer.
-* */
+There are two types of methods in Java:
+1- Predefined Method (library / built-in methods): Eg. length(), equals(), compareTo(), sqrt(), main(), print(), and max().
+2- User-defined Method: The method written by the developer/programmer (examples below).
+*/
 
 public class JavaMethods {
 
