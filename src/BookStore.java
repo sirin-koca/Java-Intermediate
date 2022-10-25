@@ -1,11 +1,11 @@
 import static javax.swing.JOptionPane.*;
 
-class Books {
+class BookClass {
     private String tittel;
     private String forfatter;
     private double pris;
 
-    public Books(String tittel, String forfatter, double pris ){
+    public BookClass(String tittel, String forfatter, double pris ){
         this.tittel = tittel;
         this.forfatter = forfatter;
         if(pris > 0){  // NB: Må være med her også!
@@ -63,7 +63,7 @@ public class BookStore{
 
         String person = showInputDialog("Ansatt eller student (A eller S)?");
 
-        Books books1 = new Books(tittel, forfatter, pris);
+        BookClass books1 = new BookClass(tittel, forfatter, pris);
         if(person.equals("A")){
             double rabatt = books1.regnUtRabatt(15);
             double nyPris = books1.getPris()-rabatt;

@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Examples on Java-methods">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/BookObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectsAndClasses/MyObjects.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Examples on Java-methods and objects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BookObjects">
+  <component name="RunManager" selected="Application.BookStore">
     <configuration name="BookObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.BookObjects" />
       <module name="Java Basics" />
@@ -78,6 +74,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookStore" />
+      <module name="Java Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.MyObjects" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookStore" />
         <item itemvalue="Application.BookObjects" />
         <item itemvalue="Application.BookObjects (1)" />
         <item itemvalue="Application.JavaMethods" />
         <item itemvalue="Application.MyMethods" />
-        <item itemvalue="Application.MyObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +156,7 @@
       <workItem from="1666530778630" duration="12481000" />
       <workItem from="1666611115017" duration="11000" />
       <workItem from="1666647774709" duration="6742000" />
-      <workItem from="1666687801451" duration="396000" />
-    </task>
-    <task id="LOCAL−00004" summary="Java Basic concepts - Loops.java">
-      <created>1664481636676</created>
-      <option name="number" value="LOCAL−00004" />
-      <option name="presentableId" value="LOCAL−00004" />
-      <updated>1664481636676</updated>
+      <workItem from="1666687801451" duration="419000" />
     </task>
     <task id="LOCAL−00005" summary="Java Basic concepts - RentesRente.java">
       <created>1664482404636</created>
@@ -462,7 +446,13 @@
       <option name="presentableId" value="LOCAL−00052" />
       <updated>1666687752687</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL−00053" summary="Examples on Java-methods and objects">
+      <created>1666688217198</created>
+      <option name="number" value="LOCAL−00053" />
+      <option name="presentableId" value="LOCAL−00053" />
+      <updated>1666688217198</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +471,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic concepts &#10;- Arrays2.java" />
     <MESSAGE value="Java Basic concepts" />
     <MESSAGE value="Java OOP system" />
     <MESSAGE value="Multiple classes" />
@@ -506,6 +495,7 @@
     <MESSAGE value="Examples on control structures" />
     <MESSAGE value="Examples on ArraysToString.java" />
     <MESSAGE value="Examples on Java-methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples on Java-methods" />
+    <MESSAGE value="Examples on Java-methods and objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples on Java-methods and objects" />
   </component>
 </project>
