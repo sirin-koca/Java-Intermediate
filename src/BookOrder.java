@@ -60,7 +60,7 @@ class Book {
     }
 }
 
-public class OrderBook {
+public class BookOrder {
     public static void main(String[] args) {
         String titel = showInputDialog("What is the titel of the book you want to order?");
         String author = showInputDialog("Who is the author of the book you want to order?");
