@@ -5,13 +5,15 @@ public class CompareStringsWithEquals {
         String course1 = "Algorithms and Data Structures";
         String course2 = "Software Engineering";
 
+        // equals
         if(course1.equals(course2)){
-            System.out.println("Same course");
+            System.out.println("They are same.");
         }
         else{
-            System.out.println("Not same course");
+            System.out.println("They are not same.");
         }
 
+        // booleans check
         boolean check = course1.equals(course2);
         if (check){
             System.out.println("If true show this: " + check);
@@ -20,6 +22,7 @@ public class CompareStringsWithEquals {
             System.out.println("If false show this: " + check);
         }
 
+        // compareTo
         int flag = course1.compareTo(course2);
         if(flag == 0){
             System.out.println("They are same");

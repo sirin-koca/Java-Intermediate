@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="BooleanMethod.java">
-      <change afterPath="$PROJECT_DIR$/src/ControlStructures/CompareStringsWithEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="CompareTo and Equals">
+      <change beforePath="$PROJECT_DIR$/src/ControlStructures/CompareStringsWithEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/CompareStringsWithEquals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,13 +169,7 @@
       <workItem from="1666688992053" duration="1311000" />
       <workItem from="1666735906634" duration="1774000" />
       <workItem from="1668008891703" duration="1000" />
-      <workItem from="1668008906037" duration="324000" />
-    </task>
-    <task id="LOCAL−00008" summary="Java Basic concepts - BilArray.java">
-      <created>1664484895367</created>
-      <option name="number" value="LOCAL−00008" />
-      <option name="presentableId" value="LOCAL−00008" />
-      <updated>1664484895367</updated>
+      <workItem from="1668008906037" duration="795000" />
     </task>
     <task id="LOCAL−00009" summary="Java Basic concepts - OrderBook.java.java">
       <created>1664553566336</created>
@@ -467,7 +459,13 @@
       <option name="presentableId" value="LOCAL−00056" />
       <updated>1666736301714</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL−00057" summary="CompareTo and Equals">
+      <created>1668009582852</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1668009582852</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +484,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Multiple classes" />
     <MESSAGE value="Homemade Array Class" />
     <MESSAGE value="Runtime comlexity for the method indexOf()" />
     <MESSAGE value="Java Basic Concepts" />
@@ -511,6 +508,7 @@
     <MESSAGE value="Examples on Java-methods and objects" />
     <MESSAGE value="Basic Java concepts - Scanner" />
     <MESSAGE value="BooleanMethod.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="BooleanMethod.java" />
+    <MESSAGE value="CompareTo and Equals" />
+    <option name="LAST_COMMIT_MESSAGE" value="CompareTo and Equals" />
   </component>
 </project>
