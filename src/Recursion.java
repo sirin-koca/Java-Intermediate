@@ -4,6 +4,7 @@ class Recursive{
     public boolean understandRecursion(String doYouUnderstandRecursion) {
 
         String recursionAnswer = showInputDialog(null, "Do you understand recursion?\nPlease type: Y/N");
+
         if(recursionAnswer.equals("Y")) { // base case
             showMessageDialog(null, "Good job!");
             return true;
