@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="CompareTo and Equals">
-      <change beforePath="$PROJECT_DIR$/src/ControlStructures/CompareStringsWithEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/CompareStringsWithEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,13 +169,7 @@
       <workItem from="1666688992053" duration="1311000" />
       <workItem from="1666735906634" duration="1774000" />
       <workItem from="1668008891703" duration="1000" />
-      <workItem from="1668008906037" duration="795000" />
-    </task>
-    <task id="LOCAL−00009" summary="Java Basic concepts - OrderBook.java.java">
-      <created>1664553566336</created>
-      <option name="number" value="LOCAL−00009" />
-      <option name="presentableId" value="LOCAL−00009" />
-      <updated>1664553566336</updated>
+      <workItem from="1668008906037" duration="1417000" />
     </task>
     <task id="LOCAL−00010" summary="Java Basic concepts - Beaufort.java implemented">
       <created>1664556290499</created>
@@ -465,7 +459,13 @@
       <option name="presentableId" value="LOCAL−00057" />
       <updated>1668009582852</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL−00058" summary="CompareTo and Equals">
+      <created>1668009727861</created>
+      <option name="number" value="LOCAL−00058" />
+      <option name="presentableId" value="LOCAL−00058" />
+      <updated>1668009727861</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
