@@ -99,6 +99,23 @@ After compiling our Java program, a separate file will be created for the compil
 • Java has namespaces; JavaScript does not. </br>
 • Java is multithreaded; JavaScript is not. </br>
 
+ ### Documentation
+ 
+ In this example, the @param annotation is used to document the a and b parameters of the add method. The @return annotation is used to document the return value of the method. The documentation comments are enclosed by /** and */. This allows the documentation to be easily read by other developers, or by automated tools that extract documentation from code.
+ 
+ ```
+  /**
+ * Returns the sum of two numbers
+ * 
+ * @param a the first number
+ * @param b the second number
+ * @return the sum of a and b
+ */
+ public int add(int a, int b) {
+    return a + b;
+ }
+ ```
+ 
 ---
 
 ### A simple class and its members
@@ -127,8 +144,9 @@ public double circumference() {
 return 2 * PI * r; 
 } 
 } 
+ 
 ```
-
+ 
 Sources:
 * [Java Docs by Oracle](https://docs.oracle.com/en/java/)
 * [Java Tutorials](https://www.javatpoint.com/java-oops-concepts)
