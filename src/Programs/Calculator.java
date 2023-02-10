@@ -26,7 +26,7 @@ class Calculate{
         return c;
     }
 }
-public class Kalkulator {
+public class Calculator {
     public static void main(String[] args) {
         int add= Calculate.addere(4,5);
         int sub= Calculate.subtrahere(4,5);

@@ -7,29 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="new examples of java">
-      <change afterPath="$PROJECT_DIR$/src/Programs/Matrix_Multiplication.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring java-programs">
+      <change afterPath="$PROJECT_DIR$/src/Programs/PalindromeChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AsciiArt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/AsciiArt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beaufort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Beaufort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookOrder_TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/BookOrder_TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/BookStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparable_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Comparable_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecimalFormatEks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/DecimalFormatEks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenOdd_Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/EvenOdd_Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Fahrenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JoptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/JoptionPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/PrimeNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/PrimeNumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlStructures/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RentesRente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/RentesRente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShowMeTheClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/ShowMeTheClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programs/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +56,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bank">
+  <component name="RunManager" selected="Application.PalindromeChecker">
     <configuration name="AsciiArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.AsciiArt" />
       <module name="Java Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Avarage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.Avarage2" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gjennomsnitt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.Gjennomsnitt2" />
+    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.PalindromeChecker" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeChecker" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.Gjennomsnitt2" />
+        <item itemvalue="Application.Avarage2" />
         <item itemvalue="Application.AsciiArt" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Recursion (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +196,7 @@
       <workItem from="1673789739886" duration="82000" />
       <workItem from="1673789889570" duration="7000" />
       <workItem from="1674836513287" duration="334000" />
-      <workItem from="1676046889728" duration="640000" />
-    </task>
-    <task id="LOCAL−00011" summary="Java Basic concepts - Beaufort.java implemented">
-      <created>1664556625064</created>
-      <option name="number" value="LOCAL−00011" />
-      <option name="presentableId" value="LOCAL−00011" />
-      <updated>1664556625064</updated>
+      <workItem from="1676046889728" duration="2021000" />
     </task>
     <task id="LOCAL−00012" summary="Java Basic concepts &#10;- Bank.java, Konto.java, and Beaufort.java implemented">
       <created>1664556938133</created>
@@ -498,7 +486,13 @@
       <option name="presentableId" value="LOCAL−00059" />
       <updated>1674836834320</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL−00060" summary="refactoring java-programs">
+      <created>1676047748543</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1676047748543</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Runtime comlexity for the method indexOf()" />
     <MESSAGE value="Java Basic Concepts" />
     <MESSAGE value="Fibonacci numbers" />
     <MESSAGE value="New section for Arrays." />
@@ -542,6 +535,7 @@
     <MESSAGE value="BooleanMethod.java" />
     <MESSAGE value="CompareTo and Equals" />
     <MESSAGE value="new examples of java" />
-    <option name="LAST_COMMIT_MESSAGE" value="new examples of java" />
+    <MESSAGE value="refactoring java-programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring java-programs" />
   </component>
 </project>
