@@ -1,4 +1,4 @@
-
+package Programs;
 //// Når vi skriver static ved import så slipper vi å bruke JOptionPane før showInputDialog
 import static javax.swing.JOptionPane.*;
 
@@ -28,7 +28,7 @@ public class Fahrenheit {
             showMessageDialog(null, ut);
         }
         if (valg.equals("F")) {
-            double fahrenheit = Double.parseDouble(showInputDialog("Skriv inn grader Fahrenheit"));
+            double fahrenheit = Double.parseDouble(showInputDialog("Skriv inn grader Programs.Fahrenheit"));
 
             String ut = fahrenheit + " grader Fharenheit er " + Converter.fraFahrenheit(fahrenheit) + " Celsius";
             showMessageDialog(null, ut);

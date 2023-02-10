@@ -26,7 +26,7 @@ _PS_: You might need coffeee...
 </td>
 <td>
 <pre>
-public class AsciiArt {
+public class Programs.AsciiArt {
 public static void main(String[] args) {
 System.out.println(" /\\_/\\ ");
 System.out.println("( o.o ) ");
@@ -104,7 +104,7 @@ After compiling our Java program, a separate file will be created for the compil
 ### A simple class and its members
 ```
 // Only one public class 
-public class Circle { 
+public class Programs.Circle { 
 
 // A class field  
 public static final double PI= 3.14159; 

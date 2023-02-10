@@ -1,6 +1,6 @@
-package ControlStructures;
+package Programs;
 
-public class Gjennomsnitt1 {
+public class Avarage1 {
     public static void main(String[] args) {
 
         int sum = 0;

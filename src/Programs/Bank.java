@@ -1,3 +1,5 @@
+package Programs;
+
 class Konto {
     private String personnummer;
     private String navn;
@@ -36,7 +38,7 @@ class Konto {
 
 
 /**
- * Bruk Konto klassen for å skrive ut saldoen.
+ * Bruk Programs.Konto klassen for å skrive ut saldoen.
  **/
 public class Bank {
     public static void main(String[] args) {

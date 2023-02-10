@@ -1,3 +1,5 @@
+package Programs;
+
 import static javax.swing.JOptionPane.*;
 
 public class JoptionPane {
@@ -17,7 +19,7 @@ public class JoptionPane {
 
         // Med input og output bokser
 
-        // Kan skrive String xxx = javax.swing.JoptionPane.showInputDialog()
+        // Kan skrive String xxx = javax.swing.Programs.JoptionPane.showInputDialog()
 
         // Vis med CTRL (cmd) + shift for hjelp
 

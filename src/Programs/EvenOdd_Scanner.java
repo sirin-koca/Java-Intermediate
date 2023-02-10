@@ -1,3 +1,5 @@
+package Programs;
+
 import java.util.Scanner;
 
 // Java.util Scanner-class is a simple text-scanner

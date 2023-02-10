@@ -1,3 +1,5 @@
+package Programs;
+
 public class PrimeNumberGenerator {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Programs;
+
 public class PrimeNumberChecker {
     static void checkPrime(int n) {
 

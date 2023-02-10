@@ -1,3 +1,5 @@
+package Programs;
+
 import java.security.SecureRandom;
 
 public class Dice {

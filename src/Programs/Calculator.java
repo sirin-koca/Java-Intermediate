@@ -1,10 +1,7 @@
-
-import javax.swing.*;
-
-import static javax.swing.JOptionPane.*;
+package Programs;
 
 /*
-* Lag en klasse kalt Kalkulator. Denne klassen skal ha 4 statiske metoder som tar inn 2 parametere hver.
+* Lag en klasse kalt Programs.Kalkulator. Denne klassen skal ha 4 statiske metoder som tar inn 2 parametere hver.
 * Disse statiske metodene skal henholdsvis addere, subtrahere, multiplisere og dividere to desimaltall.
 Skriv også kode i main-metoden for å kalle disse metodene for å sjekke at de fungerer. */
 class Calculate{

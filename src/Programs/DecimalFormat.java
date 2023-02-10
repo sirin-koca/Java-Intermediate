@@ -1,6 +1,6 @@
-import java.text.DecimalFormat;
+package Programs;
 
-public class DecimalFormatEks{
+public class DecimalFormat {
 
     private static double beregnAreal(double radius){
         double areal = Math.PI * Math.pow(radius, 2);
@@ -11,7 +11,7 @@ public class DecimalFormatEks{
         double radius = 13.23;
         double areal = beregnAreal(radius);
 
-        DecimalFormat df2 = new DecimalFormat(".##");
+        java.text.DecimalFormat df2 = new java.text.DecimalFormat(".##");
         // DecimalFormat df2 = new DecimalFormat(".##");
         System.out.println("Arealet til en sirkel med radius "+radius+" er "+df2.format(areal));
     }
