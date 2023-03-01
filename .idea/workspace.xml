@@ -7,7 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PalindromeChecker added to the Programs folder" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Generics examples">
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,32 +41,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PalindromeChecker">
+}</component>
+  <component name="RunManager" selected="Application.GenericsExample">
     <configuration name="AsciiArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.AsciiArt" />
-      <module name="Java Basics" />
+      <module name="Java Fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Avarage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.Avarage2" />
-      <module name="Java Basics" />
+      <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programs.*" />
@@ -75,10 +79,23 @@
     </configuration>
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.Bank" />
-      <module name="Java Basics" />
+      <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.GenericsExample" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,33 +105,7 @@
     </configuration>
     <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.PalindromeChecker" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursion (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStructures.Recursion" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ControlStructures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlStructures.Recursion" />
-      <module name="Java Basics" />
+      <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programs.*" />
@@ -140,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsExample" />
         <item itemvalue="Application.PalindromeChecker" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Avarage2" />
         <item itemvalue="Application.AsciiArt" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -193,13 +184,8 @@
       <workItem from="1673789889570" duration="7000" />
       <workItem from="1674836513287" duration="334000" />
       <workItem from="1676046889728" duration="2367000" />
-      <workItem from="1677682368660" duration="942000" />
-    </task>
-    <task id="LOCAL−00015" summary="Java Basic concepts &#10;- Arrays2.java">
-      <created>1664557568193</created>
-      <option name="number" value="LOCAL−00015" />
-      <option name="presentableId" value="LOCAL−00015" />
-      <updated>1664557568193</updated>
+      <workItem from="1677682368660" duration="1613000" />
+      <workItem from="1677685190953" duration="473000" />
     </task>
     <task id="LOCAL−00016" summary="Java Basic concepts">
       <created>1664630143548</created>
@@ -489,7 +475,13 @@
       <option name="presentableId" value="LOCAL−00063" />
       <updated>1677683304758</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL−00064" summary="Java Fundamentals">
+      <created>1677685159071</created>
+      <option name="number" value="LOCAL−00064" />
+      <option name="presentableId" value="LOCAL−00064" />
+      <updated>1677685159071</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,8 +500,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fibonacci numbers" />
-    <MESSAGE value="New section for Arrays." />
     <MESSAGE value="Circle.java" />
     <MESSAGE value="Comparable_Interface.java" />
     <MESSAGE value="java-logo-bw" />
@@ -533,7 +523,9 @@
     <MESSAGE value="new examples of java" />
     <MESSAGE value="refactoring java-programs" />
     <MESSAGE value="PalindromeChecker added to the Programs folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="PalindromeChecker added to the Programs folder" />
+    <MESSAGE value="Java Fundamentals" />
+    <MESSAGE value="Generics examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics examples" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
