@@ -1,5 +1,6 @@
 package substitution_principle;
 
+//  class Office extends Building
 public class Office extends Building{
 
     @Override
