@@ -193,13 +193,7 @@
       <workItem from="1673789889570" duration="7000" />
       <workItem from="1674836513287" duration="334000" />
       <workItem from="1676046889728" duration="2367000" />
-      <workItem from="1677682368660" duration="905000" />
-    </task>
-    <task id="LOCAL−00014" summary="Java Basic concepts &#10;- Bank.java">
-      <created>1664557475140</created>
-      <option name="number" value="LOCAL−00014" />
-      <option name="presentableId" value="LOCAL−00014" />
-      <updated>1664557475140</updated>
+      <workItem from="1677682368660" duration="942000" />
     </task>
     <task id="LOCAL−00015" summary="Java Basic concepts &#10;- Arrays2.java">
       <created>1664557568193</created>
@@ -489,7 +483,13 @@
       <option name="presentableId" value="LOCAL−00062" />
       <updated>1677683113361</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL−00063" summary="PalindromeChecker added to the Programs folder">
+      <created>1677683304758</created>
+      <option name="number" value="LOCAL−00063" />
+      <option name="presentableId" value="LOCAL−00063" />
+      <updated>1677683304758</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
