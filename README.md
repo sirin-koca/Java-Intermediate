@@ -1,7 +1,7 @@
 # Java Fundamentals
 
 
-## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
+## [Basic Java programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
 
 <img src= "img/java-logo-bw.png" alt="An illustration of The javac tool" width="25" align="center"> You might need coffeee ... 
 
@@ -26,7 +26,7 @@
 </td>
 <td>
 <pre>
-public class Programs.AsciiArt {
+public class programs.AsciiArt {
 public static void main(String[] args) {
 System.out.println(" /\\_/\\ ");
 System.out.println("( o.o ) ");
@@ -121,7 +121,7 @@ After compiling our Java program, a separate file will be created for the compil
 ### A simple class and its members
 ```
 // Only one public class 
-public class Programs.Circle { 
+public class programs.Circle { 
 
 // A class field  
 public static final double PI= 3.14159; 
