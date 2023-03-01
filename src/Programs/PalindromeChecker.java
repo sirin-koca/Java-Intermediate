@@ -26,13 +26,13 @@ public class PalindromeChecker {
         int end = input.length() - 1;
         while (start < end) {
             if (input.charAt(start) != input.charAt(end)) {
-                showMessageDialog(null, "Your lucky day! That is not a palindrome.");
+                showMessageDialog(null, "That is not a palindrome.");
                 return false;
             }
             start++;
             end--;
         }
-        showMessageDialog(null, "That is a palindrome");
+        showMessageDialog(null, "Bingo! That is a palindrome");
         return true;
     }
 

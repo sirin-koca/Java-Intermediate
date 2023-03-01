@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring java-programs">
-      <change afterPath="$PROJECT_DIR$/src/Programs/PalindromeChecker.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PalindromeChecker added to the Programs folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programs/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.PalindromeChecker">
     <configuration name="AsciiArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.AsciiArt" />
@@ -196,13 +194,8 @@
       <workItem from="1673789739886" duration="82000" />
       <workItem from="1673789889570" duration="7000" />
       <workItem from="1674836513287" duration="334000" />
-      <workItem from="1676046889728" duration="2021000" />
-    </task>
-    <task id="LOCAL−00012" summary="Java Basic concepts &#10;- Bank.java, Konto.java, and Beaufort.java implemented">
-      <created>1664556938133</created>
-      <option name="number" value="LOCAL−00012" />
-      <option name="presentableId" value="LOCAL−00012" />
-      <updated>1664556938134</updated>
+      <workItem from="1676046889728" duration="2367000" />
+      <workItem from="1677682368660" duration="596000" />
     </task>
     <task id="LOCAL−00013" summary="Java Basic concepts &#10;- Fahrenheit.java converter">
       <created>1664557202429</created>
@@ -492,7 +485,13 @@
       <option name="presentableId" value="LOCAL−00060" />
       <updated>1676047748543</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL−00061" summary="PalindromeChecker added to the Programs folder">
+      <created>1676049261307</created>
+      <option name="number" value="LOCAL−00061" />
+      <option name="presentableId" value="LOCAL−00061" />
+      <updated>1676049261307</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +510,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Java Basic Concepts" />
     <MESSAGE value="Fibonacci numbers" />
     <MESSAGE value="New section for Arrays." />
     <MESSAGE value="Circle.java" />
@@ -536,6 +534,11 @@
     <MESSAGE value="CompareTo and Equals" />
     <MESSAGE value="new examples of java" />
     <MESSAGE value="refactoring java-programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring java-programs" />
+    <MESSAGE value="PalindromeChecker added to the Programs folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="PalindromeChecker added to the Programs folder" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
