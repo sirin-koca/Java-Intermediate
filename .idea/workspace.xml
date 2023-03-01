@@ -8,9 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Generics examples">
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Varargs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/GenericsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,33 +57,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GenericsExample">
-    <configuration name="AsciiArt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.AsciiArt" />
-      <module name="Java Fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Avarage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.Avarage2" />
+  <component name="RunManager" selected="Application.Varargs">
+    <configuration name="GenericMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.GenericMethods" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.Bank" />
-      <module name="Java Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programs.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +110,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Test1" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Varargs" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Varargs" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.GenericMethods" />
         <item itemvalue="Application.GenericsExample" />
         <item itemvalue="Application.PalindromeChecker" />
-        <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.Avarage2" />
-        <item itemvalue="Application.AsciiArt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +192,7 @@
       <workItem from="1674836513287" duration="334000" />
       <workItem from="1676046889728" duration="2367000" />
       <workItem from="1677682368660" duration="1613000" />
-      <workItem from="1677685190953" duration="473000" />
-    </task>
-    <task id="LOCAL−00016" summary="Java Basic concepts">
-      <created>1664630143548</created>
-      <option name="number" value="LOCAL−00016" />
-      <option name="presentableId" value="LOCAL−00016" />
-      <updated>1664630143548</updated>
+      <workItem from="1677685190953" duration="3103000" />
     </task>
     <task id="LOCAL−00017" summary="Java OOP system">
       <created>1664723333530</created>
@@ -481,7 +482,13 @@
       <option name="presentableId" value="LOCAL−00064" />
       <updated>1677685159071</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL−00065" summary="Generics examples">
+      <created>1677685674660</created>
+      <option name="number" value="LOCAL−00065" />
+      <option name="presentableId" value="LOCAL−00065" />
+      <updated>1677685674660</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
