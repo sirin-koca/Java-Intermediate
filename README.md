@@ -1,9 +1,9 @@
-# Java Basics<img src= "img/java-logo-bw.png" alt="An illustration of The javac tool" width="45" align="center">
+# Java Basics
 
 
 ## [Basic Java Programs](https://github.com/sirin-koca/Java-Basics/tree/master/src) and concepts to deep dive into the World of Java!
 
-_PS_: You might need coffeee...
+<img src= "img/java-logo-bw.png" alt="An illustration of The javac tool" width="25" align="center"> You might need coffeee ... 
 
 ---
 <table>
