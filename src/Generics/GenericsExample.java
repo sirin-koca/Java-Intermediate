@@ -18,5 +18,8 @@ public class GenericsExample {
         String name2 = names2.get(0);
         System.out.println("First name in the list: " + name2);
 
+        /*
+        Using generics means that the compiler checks that only strings are added to the list which makes the code safer.
+         */
     }
 }
