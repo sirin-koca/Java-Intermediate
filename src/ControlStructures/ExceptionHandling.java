@@ -1,6 +1,6 @@
 package ControlStructures;
 
-class Exception1 {
+class Exceptions {
     public static void main(String[] args) {
 
         // Division by zero raises ArithmeticException:
