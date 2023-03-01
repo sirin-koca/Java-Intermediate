@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PalindromeChecker added to the Programs folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="PalindromeChecker added to the Programs folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,13 +193,7 @@
       <workItem from="1673789889570" duration="7000" />
       <workItem from="1674836513287" duration="334000" />
       <workItem from="1676046889728" duration="2367000" />
-      <workItem from="1677682368660" duration="596000" />
-    </task>
-    <task id="LOCAL−00013" summary="Java Basic concepts &#10;- Fahrenheit.java converter">
-      <created>1664557202429</created>
-      <option name="number" value="LOCAL−00013" />
-      <option name="presentableId" value="LOCAL−00013" />
-      <updated>1664557202429</updated>
+      <workItem from="1677682368660" duration="905000" />
     </task>
     <task id="LOCAL−00014" summary="Java Basic concepts &#10;- Bank.java">
       <created>1664557475140</created>
@@ -491,7 +483,13 @@
       <option name="presentableId" value="LOCAL−00061" />
       <updated>1676049261307</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL−00062" summary="PalindromeChecker added to the Programs folder">
+      <created>1677683113361</created>
+      <option name="number" value="LOCAL−00062" />
+      <option name="presentableId" value="LOCAL−00062" />
+      <updated>1677683113361</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
