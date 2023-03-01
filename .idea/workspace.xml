@@ -7,11 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Generics examples">
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Varargs.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Variable Arguments (Varargs)">
+      <change afterPath="$PROJECT_DIR$/src/ControlStructures/ExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/GenericsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Varargs">
+  <component name="RunManager" selected="Application.Exception1">
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlStructures.Exception1" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ControlStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.GenericMethods" />
       <module name="Java Fundamentals" />
@@ -77,19 +88,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.PalindromeChecker" />
-      <module name="Java Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exception1" />
         <item itemvalue="Application.Varargs" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.GenericMethods" />
         <item itemvalue="Application.GenericsExample" />
-        <item itemvalue="Application.PalindromeChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -192,25 +190,7 @@
       <workItem from="1674836513287" duration="334000" />
       <workItem from="1676046889728" duration="2367000" />
       <workItem from="1677682368660" duration="1613000" />
-      <workItem from="1677685190953" duration="3103000" />
-    </task>
-    <task id="LOCAL−00017" summary="Java OOP system">
-      <created>1664723333530</created>
-      <option name="number" value="LOCAL−00017" />
-      <option name="presentableId" value="LOCAL−00017" />
-      <updated>1664723333530</updated>
-    </task>
-    <task id="LOCAL−00018" summary="Java OOP system">
-      <created>1664723558317</created>
-      <option name="number" value="LOCAL−00018" />
-      <option name="presentableId" value="LOCAL−00018" />
-      <updated>1664723558317</updated>
-    </task>
-    <task id="LOCAL−00019" summary="Java OOP system">
-      <created>1664723673599</created>
-      <option name="number" value="LOCAL−00019" />
-      <option name="presentableId" value="LOCAL−00019" />
-      <updated>1664723673599</updated>
+      <workItem from="1677685190953" duration="4950000" />
     </task>
     <task id="LOCAL−00020" summary="Multiple classes">
       <created>1664734869787</created>
@@ -488,7 +468,25 @@
       <option name="presentableId" value="LOCAL−00065" />
       <updated>1677685674660</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL−00066" summary="Generic methods">
+      <created>1677688586719</created>
+      <option name="number" value="LOCAL−00066" />
+      <option name="presentableId" value="LOCAL−00066" />
+      <updated>1677688586719</updated>
+    </task>
+    <task id="LOCAL−00067" summary="Generic examples">
+      <created>1677688597356</created>
+      <option name="number" value="LOCAL−00067" />
+      <option name="presentableId" value="LOCAL−00067" />
+      <updated>1677688597356</updated>
+    </task>
+    <task id="LOCAL−00068" summary="Variable Arguments (Varargs)">
+      <created>1677688608202</created>
+      <option name="number" value="LOCAL−00068" />
+      <option name="presentableId" value="LOCAL−00068" />
+      <updated>1677688608202</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,9 +505,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Circle.java" />
-    <MESSAGE value="Comparable_Interface.java" />
-    <MESSAGE value="java-logo-bw" />
     <MESSAGE value="Java basics" />
     <MESSAGE value="understandRecursion() implemented" />
     <MESSAGE value="new class: Clock is implemented" />
@@ -532,7 +527,10 @@
     <MESSAGE value="PalindromeChecker added to the Programs folder" />
     <MESSAGE value="Java Fundamentals" />
     <MESSAGE value="Generics examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics examples" />
+    <MESSAGE value="Generic methods" />
+    <MESSAGE value="Generic examples" />
+    <MESSAGE value="Variable Arguments (Varargs)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variable Arguments (Varargs)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
