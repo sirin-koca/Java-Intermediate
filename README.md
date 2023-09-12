@@ -26,7 +26,7 @@
 </td>
 <td>
 <pre>
-public class programs.AsciiArt {
+public class AsciiArt {
 public static void main(String[] args) {
 System.out.println(" /\_/\ ");
 System.out.println("( o.o ) ");
