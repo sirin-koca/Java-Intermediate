@@ -1,3 +1,4 @@
+// Inheritance allows a class to inherit attributes and methods from another class.
 class Animal {
     void eat() {
         System.out.println("This animal eats food.");
