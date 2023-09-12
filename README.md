@@ -17,7 +17,7 @@
 - Object-Oriented Programming (OOP)
 - Platform independent 
 - Multi-thread Concurrency
-- Functinal programming 
+- Functional programming 
 - High performance
 - Portable - The WORA </br>(Write Once Run Anywhere)
 - Easy syntax
