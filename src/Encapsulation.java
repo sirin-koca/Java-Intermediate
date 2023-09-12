@@ -1,3 +1,5 @@
+// There are 4 core concepts in OOP: encapsulation, inheritance, polymorphism, and abstraction.
+
 import java.util.Scanner;
 public class Main
 {
