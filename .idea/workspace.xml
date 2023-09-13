@@ -9,7 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
-      <change afterPath="$PROJECT_DIR$/src/programs/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +58,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TroopGreetings">
+  <component name="RunManager" selected="Application.ExceptionHandling">
     <configuration name="EqualAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_principles.EqualAnimals" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop_principles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.ExceptionHandling" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyGenericBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.MyGenericBox" />
-      <module name="Java Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TroopGreetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.TroopGreetings" />
       <module name="Java Fundamentals" />
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandling" />
         <item itemvalue="Application.TroopGreetings" />
         <item itemvalue="Application.JavaMethods" />
         <item itemvalue="Application.JavaBeansDemo" />
         <item itemvalue="Application.GenericsExample" />
-        <item itemvalue="Application.MyGenericBox" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +201,7 @@
       <workItem from="1694611436137" duration="112000" />
       <workItem from="1694611616748" duration="122000" />
       <workItem from="1694611805531" duration="486000" />
-      <workItem from="1694615456621" duration="5640000" />
+      <workItem from="1694615456621" duration="6540000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -496,7 +497,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
