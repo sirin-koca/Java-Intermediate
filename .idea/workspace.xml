@@ -174,7 +174,7 @@
       <workItem from="1677690498065" duration="910000" />
       <workItem from="1677692146244" duration="625000" />
       <workItem from="1677693787429" duration="1296000" />
-      <workItem from="1694609847517" duration="1500000" />
+      <workItem from="1694609847517" duration="1532000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -470,7 +470,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

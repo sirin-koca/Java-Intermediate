@@ -3,7 +3,7 @@
 restricting access to some of the object's components. #datahiding */
 
 import java.util.Scanner;
-public class MainE{
+public class EncapsulationMain{
 	public static void main(String[] args) {
 	    Scanner read = new Scanner(System.in);
 	    int a = read.nextInt();
