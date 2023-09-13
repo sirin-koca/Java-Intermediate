@@ -1,3 +1,6 @@
+/*The class Robot has an inner class Brain. The inner class can access all of the member variables and methods of its outer class, 
+but it cannot be accessed from any outside class.*/
+
 class Robot {
     int id;
     Robot(int i) {
