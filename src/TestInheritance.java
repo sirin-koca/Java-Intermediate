@@ -1,11 +1,11 @@
 // Inheritance allows a class to inherit attributes and methods from another class.
-class Animal {
+class AnimalInheritance {
     void eat() {
         System.out.println("This animal eats food.");
     }
 }
 
-class Dog extends Animal {
+class Dog extends AnimalInheritance {
     void bark() {
         System.out.println("The dog barks.");
     }

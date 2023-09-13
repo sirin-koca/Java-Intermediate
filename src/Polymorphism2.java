@@ -1,6 +1,6 @@
 // Polymorphism is in short: one method, with different implementations.
 
-class Main {
+class MainVehicles {
    public static void main(String[] args) {       
        Vehicle vehicle = new Vehicle();
        Vehicle electric = new ElVehicle();

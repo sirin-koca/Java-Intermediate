@@ -1,6 +1,8 @@
+package control_structures;
+
 import java.util.Scanner;
 
-class Main {
+class MainCasting {
    public static void main(String[] args) {
        Scanner read = new Scanner(System.in);
        char a = read.next().charAt(0);

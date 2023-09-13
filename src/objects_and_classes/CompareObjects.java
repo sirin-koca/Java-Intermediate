@@ -1,14 +1,16 @@
-class Animal {
+package objects_and_classes;
+
+class MyAnimals {
     String name;
-    Animal(String n) {
+    MyAnimals(String n) {
         name = n;
     }
 }
 
 class MyClass {
     public static void main(String[ ] args) {
-        Animal a1 = new Animal("Robby");
-        Animal a2 = new Animal("Robby");
+        MyAnimals a1 = new MyAnimals("Robby");
+        MyAnimals a2 = new MyAnimals("Robby");
         System.out.println("Is a1 = a2? " + "Answer: " + (a1 == a2));
     }
 }

@@ -1,10 +1,30 @@
 /* This code demonstrates polymorphism and inheritance by creating objects of different classes that implement the same interface and 
 have different implementations of the same method.*/
 
-class Main {
+class MainAnimals {
    public static void main(String[] args) {
-       Animal dog = new Dog();
-       Animal cat = new Cat();
+       Animals dog = new Animals() {
+           @Override
+           public void play() {
+
+           }
+
+           @Override
+           public void swim() {
+
+           }
+       };
+       Animals cat = new Animals() {
+           @Override
+           public void play() {
+
+           }
+
+           @Override
+           public void swim() {
+
+           }
+       };
        
        dog.swim();
        dog.play();
@@ -22,9 +42,9 @@ interface Player {
 }
 
 // Implement the Swimmer and the Player interfaces
-abstract class Animal implements Swimmer, Player { }
+abstract class Animals implements Swimmer, Player { }
 
-class Dog extends Animal {
+class Doggy extends Animals {
     @Override
     public void play() {
         System.out.println("Dog is playing.");
@@ -36,7 +56,7 @@ class Dog extends Animal {
     }
 }
 
-class Cat extends Animal {
+class Cat extends Animals {
     @Override
     public void play() {
         System.out.println("Cat is playing.");

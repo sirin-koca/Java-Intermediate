@@ -1,4 +1,6 @@
-public class Main {
+package objects_and_classes;
+
+public class MainPurchase {
 	public static void main(String[] args) {
         
        Purchase customer = new Purchase();

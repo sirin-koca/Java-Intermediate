@@ -1,4 +1,4 @@
-/*The class Robot has an inner class Brain. The inner class can access all of the member variables and methods of its outer class, 
+package objects_and_classes;/*The class Robot has an inner class Brain. The inner class can access all of the member variables and methods of its outer class,
 but it cannot be accessed from any outside class.*/
 
 class Robot {
@@ -16,7 +16,7 @@ class Robot {
     }
 }
 
-public class Program {
+public class RobotProgram {
     public static void main(String[] args) {
         Robot r = new Robot(1);
     }

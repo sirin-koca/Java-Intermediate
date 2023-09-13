@@ -1,4 +1,4 @@
-/* equals()
+package objects_and_classes;/* equals()
 Each object has a predefined equals() method that is used for semantical equality testing.
 But, to make it work for our classes, we need to override it and check the conditions we need.
 
@@ -19,11 +19,22 @@ Just right-click in your class, go to Source->Generate hashCode() and equals()..
 
 */
 
+public class MainAnimal{
+  public static void main(String[] args) {
+    Animal a = new Animal("Maya");
+    Animal b = new Animal("Leo");
+
+    System.out.println(a.equals(b));
+
+  }
+}
+
 class Animal {
   String name;
   Animal(String n) {
     name = n;
   }
+
   @Override
   public int hashCode() {
     final int prime = 31;
@@ -31,8 +42,8 @@ class Animal {
     result = prime * result + ((name == null) ? 0 : name.hashCode());
     return result;
   }
-  @Override
-  public boolean [b]equals[/b](Object obj) {
+
+  public boolean equals(Object obj) {
     if (this == obj)
       return true;
     if (obj == null)
