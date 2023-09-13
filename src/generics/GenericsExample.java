@@ -1,25 +1,27 @@
 package generics;
-
 import java.util.ArrayList;
 import java.util.List;
 
 public class GenericsExample {
     public static void main(String[] args) {
 
-        // Example without Generics
-        List names1 = new ArrayList();
-        names1.add("Sirin");
-        String name1 = (String)names1.get(0);
-        System.out.println("First name in the list: " + name1);
+        // Non-generic List
+        List nonGenericList = new ArrayList();
+        nonGenericList.add("John");
+        nonGenericList.add(123);  // This will compile, but is logically incorrect
+        String nameWithoutGenerics;
+        try {
+            nameWithoutGenerics = (String) nonGenericList.get(1);  // Causes runtime error
+        } catch (ClassCastException e) {
+            nameWithoutGenerics = "Error: Incorrect data type!";
+        }
+        System.out.println("NoGenerics: " + nameWithoutGenerics);
 
-        // Example with Generics, aka generify
-        List<String> names2 = new ArrayList<>();
-        names2.add("Sirin");
-        String name2 = names2.get(0);
-        System.out.println("First name in the list: " + name2);
-
-        /*
-        Using generics means that the compiler checks that only strings are added to the list which makes the code safer.
-         */
+        // Generic List
+        List<String> genericList = new ArrayList<>();
+        genericList.add("John");
+        // genericList.add(123);  // This line will cause compile-time error
+        String nameWithGenerics = genericList.get(0);
+        System.out.println("WithGenerics: " + nameWithGenerics);
     }
 }

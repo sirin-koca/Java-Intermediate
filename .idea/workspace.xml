@@ -9,24 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_features/AnnotationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_features/EnumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_features/GarbageCollectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_features/JavaBeansDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_features/JndiLookup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_features/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/MyGenericBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/GenericsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/GenericsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JavaBeansDemo">
+  <component name="RunManager" selected="Application.GenericsExample">
     <configuration name="AnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_features.AnnotationDemo" />
       <module name="Java Fundamentals" />
@@ -101,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GarbageCollectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.GarbageCollectorDemo" />
+    <configuration name="GenericsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.GenericsExample" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_features.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.ListDemo" />
+    <configuration name="MyGenericBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.MyGenericBox" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_features.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsExample" />
+        <item itemvalue="Application.MyGenericBox" />
         <item itemvalue="Application.JavaBeansDemo" />
         <item itemvalue="Application.AnnotationDemo" />
         <item itemvalue="Application.JndiLookup" />
-        <item itemvalue="Application.ListDemo" />
-        <item itemvalue="Application.GarbageCollectorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +202,7 @@
       <workItem from="1694611436137" duration="112000" />
       <workItem from="1694611616748" duration="122000" />
       <workItem from="1694611805531" duration="486000" />
-      <workItem from="1694615456621" duration="2963000" />
+      <workItem from="1694615456621" duration="3752000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -513,7 +498,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
