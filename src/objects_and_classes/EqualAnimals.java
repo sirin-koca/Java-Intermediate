@@ -19,12 +19,12 @@ Just right-click in your class, go to Source->Generate hashCode() and equals()..
 
 */
 
-public class MainAnimal{
+public class EqualAnimals{
   public static void main(String[] args) {
     Animal a = new Animal("Maya");
     Animal b = new Animal("Leo");
 
-    System.out.println(a.equals(b));
+    System.out.println("Is animal a equal to animal b? The answer is: " + a.equals(b));
 
   }
 }
