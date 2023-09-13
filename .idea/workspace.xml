@@ -10,7 +10,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/MainAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_and_classes/EqualAnimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/Anonymous1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/Anonymous1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/BookObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/BookObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/CompareObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/EqualAnimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/EqualAnimals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/MainPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/MainPurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/MultipleClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/MultipleClasses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +62,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EqualAnimals (1)">
-    <configuration name="EqualAnimals (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objects_and_classes.EqualAnimals" />
+  <component name="RunManager" selected="Application.BooleanMethod">
+    <configuration name="BooleanMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.BooleanMethod" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objects_and_classes.*" />
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareStringsWithEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control_structures.CompareStringsWithEquals" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control_structures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="EqualAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objects_and_classes.EqualAnimals" />
+      <option name="MAIN_CLASS_NAME" value="oop_principles.EqualAnimals" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objects_and_classes.*" />
+          <option name="PATTERN" value="oop_principles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,9 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_principles.MainAnimals" />
+    <configuration name="EqualAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_principles.EqualAnimals" />
       <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_principles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,7 +129,7 @@
       </method>
     </configuration>
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objects_and_classes.MyClass" />
+      <option name="MAIN_CLASS_NAME" value="oop_principles.MyClass" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EqualAnimals (1)" />
+        <item itemvalue="Application.BooleanMethod" />
+        <item itemvalue="Application.CompareStringsWithEquals" />
         <item itemvalue="Application.EqualAnimals" />
         <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.MainCasting" />
-        <item itemvalue="Application.MainAnimals" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +204,7 @@
       <workItem from="1694609847517" duration="1532000" />
       <workItem from="1694611436137" duration="112000" />
       <workItem from="1694611616748" duration="122000" />
-      <workItem from="1694611805531" duration="299000" />
+      <workItem from="1694611805531" duration="486000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -476,7 +500,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

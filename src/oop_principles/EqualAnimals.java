@@ -1,4 +1,4 @@
-package objects_and_classes;/* equals()
+package oop_principles;/* equals()
 Each object has a predefined equals() method that is used for semantical equality testing.
 But, to make it work for our classes, we need to override it and check the conditions we need.
 

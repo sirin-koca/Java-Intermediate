@@ -1,4 +1,4 @@
-package objects_and_classes;
+package oop_principles;
 
 class MyAnimals {
     String name;

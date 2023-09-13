@@ -1,4 +1,4 @@
-package objects_and_classes;
+package oop_principles;
 
 import static javax.swing.JOptionPane.*;
 

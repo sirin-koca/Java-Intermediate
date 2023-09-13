@@ -1,4 +1,4 @@
-package objects_and_classes;
+package oop_principles;
 
 public class MainPurchase {
 	public static void main(String[] args) {

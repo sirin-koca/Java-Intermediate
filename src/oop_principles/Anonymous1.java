@@ -1,4 +1,4 @@
-package objects_and_classes;
+package oop_principles;
 
 //Anonymous classes are a way to extend the existing classes on the fly.
 class Machine {
