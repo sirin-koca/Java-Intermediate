@@ -1,8 +1,10 @@
-public class Person {
+package oop_principles;
+
+public class PublicConstructor {
     private String name; // Private attribute
 
     // Public constructor
-    public Person(String name) {
+    public PublicConstructor(String name) {
         this.name = name;
     }
 

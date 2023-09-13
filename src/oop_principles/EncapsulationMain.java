@@ -1,4 +1,4 @@
-// There are 4 core concepts in OOP: encapsulation, inheritance, polymorphism, and abstraction.
+package oop_principles;// There are 4 core concepts in OOP: encapsulation, inheritance, polymorphism, and abstraction.
 /* Encapsulation is about bundling the data (attributes) and methods (functions) that operate on the data into a single unit called a class and 
 restricting access to some of the object's components. #datahiding */
 

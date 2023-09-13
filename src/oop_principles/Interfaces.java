@@ -1,4 +1,4 @@
-/* This code demonstrates polymorphism and inheritance by creating objects of different classes that implement the same interface and 
+package oop_principles;/* This code demonstrates polymorphism and inheritance by creating objects of different classes that implement the same interface and
 have different implementations of the same method.*/
 
 class MainAnimals {
@@ -41,29 +41,29 @@ interface Player {
    void play();
 }
 
-// Implement the Swimmer and the Player interfaces
+// Implement the oop_principles.Swimmer and the oop_principles.Player interfaces
 abstract class Animals implements Swimmer, Player { }
 
 class Doggy extends Animals {
     @Override
     public void play() {
-        System.out.println("Dog is playing.");
+        System.out.println("oop_principles.Dog is playing.");
     }
 
     @Override
     public void swim() {
-        System.out.println("Dog is swimming.");
+        System.out.println("oop_principles.Dog is swimming.");
     }
 }
 
 class Cat extends Animals {
     @Override
     public void play() {
-        System.out.println("Cat is playing.");
+        System.out.println("oop_principles.Cat is playing.");
     }
 
     @Override
     public void swim() {
-        System.out.println("Cat is swimming.");
+        System.out.println("oop_principles.Cat is swimming.");
     }
 }

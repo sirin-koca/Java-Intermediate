@@ -1,4 +1,4 @@
-// Polymorphism is in short: one method, with different implementations.
+package oop_principles;// Polymorphism is in short: one method, with different implementations.
 
 class MainVehicles {
    public static void main(String[] args) {       

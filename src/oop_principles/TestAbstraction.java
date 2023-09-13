@@ -1,4 +1,4 @@
-/* Abstraction means using simple things to represent complexity. In Java, abstraction is achieved using abstract classes and interfaces.*/
+package oop_principles;/* Abstraction means using simple things to represent complexity. In Java, abstraction is achieved using abstract classes and interfaces.*/
 
 abstract class Shape {
     abstract void draw();

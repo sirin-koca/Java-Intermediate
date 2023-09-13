@@ -1,3 +1,5 @@
+package oop_principles;
+
 class Main {
    public static void main(String[] args) {
        Monopoly monopoly = new Monopoly();
@@ -17,9 +19,9 @@ abstract class Game {
 
 class Monopoly extends Game {
 
-   //give "Monopoly" name to game
+   //give "oop_principles.Monopoly" name to game
    String getName() {
-       return "Monopoly";
+       return "oop_principles.Monopoly";
    }
 
    // play method should print "Buy all property."
@@ -30,9 +32,9 @@ class Monopoly extends Game {
 
 class Chess extends Game {
 
-   //give "Chess" name to game
+   //give "oop_principles.Chess" name to game
    String getName() {
-       return "Chess";
+       return "oop_principles.Chess";
    }
 
    // play method should print "Kill the enemy king."
@@ -43,7 +45,7 @@ class Chess extends Game {
 
 class Battleships extends Game {
 
-   //give "Battleships" name to game
+   //give "oop_principles.Battleships" name to game
    String getName() {
        return "Battlerships";
    }

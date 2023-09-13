@@ -1,3 +1,5 @@
+package oop_principles;
+
 // Inheritance allows a class to inherit attributes and methods from another class.
 class AnimalInheritance {
     void eat() {

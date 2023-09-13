@@ -1,4 +1,4 @@
-/* Polymorphism allows objects of different classes to be treated as objects of a common superclass. 
+package oop_principles;/* Polymorphism allows objects of different classes to be treated as objects of a common superclass.
 The most common use of polymorphism is when a parent class reference is used to refer to a child class object.
 */
 

@@ -8,7 +8,7 @@
 ---
 <table>
 <tr>
-<th>Main features of Java</th><th>Input</th><th>Output</th>
+<th>oop_principles.Main features of Java</th><th>Input</th><th>Output</th>
 </tr>
 
 <tr>
@@ -183,7 +183,7 @@ C#: Primarily developed in Visual Studio; integration with Microsoft tools and s
 ### A simple class and its members
 ```
 // Only one public class 
-public class programs.Circle { 
+public class programs.oop_principles.Circle { 
 
 // A class field  
 public static final double PI= 3.14159; 
