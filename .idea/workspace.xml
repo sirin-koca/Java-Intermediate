@@ -55,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TryCatch">
+  <component name="RunManager" selected="Application.Exceptions">
     <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_features.ExceptionHandling" />
       <module name="Java Fundamentals" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaBeansDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.JavaBeansDemo" />
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control_structures.Exceptions" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_features.*" />
+          <option name="PATTERN" value="control_structures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.TryCatch" />
         <item itemvalue="Application.ExceptionHandling" />
         <item itemvalue="Application.TroopGreetings" />
         <item itemvalue="Application.JavaMethods" />
-        <item itemvalue="Application.JavaBeansDemo" />
       </list>
     </recent_temporary>
   </component>
