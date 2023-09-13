@@ -8,20 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_16_57_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_03_2023_16_57__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestAbstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/control_structures/UpcastingDowncasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/Anonymous1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_and_classes/Anonymous1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/Anonymous2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_and_classes/MainPurchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_and_classes/MainAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programs/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/TypeCasting.java" afterDir="false" />
-    </list>
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +174,7 @@
       <workItem from="1677690498065" duration="910000" />
       <workItem from="1677692146244" duration="625000" />
       <workItem from="1677693787429" duration="1296000" />
-      <workItem from="1694609847517" duration="1134000" />
+      <workItem from="1694609847517" duration="1500000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -483,7 +470,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
