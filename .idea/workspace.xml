@@ -9,13 +9,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/AnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/GarbageCollectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/JavaBeansDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/JndiLookup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_features/ListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/Anonymous1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/Anonymous1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/BookObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/BookObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/CompareObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/EqualAnimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/EqualAnimals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/MainPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/MainPurchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects_and_classes/MultipleClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop_principles/MultipleClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Fundamentals.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,42 +57,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.BooleanMethod">
-    <configuration name="BooleanMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.BooleanMethod" />
+}]]></component>
+  <component name="RunManager" selected="Application.JavaBeansDemo">
+    <configuration name="AnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.AnnotationDemo" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompareStringsWithEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control_structures.CompareStringsWithEquals" />
-      <module name="Java Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="control_structures.*" />
+          <option name="PATTERN" value="java_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_principles.EqualAnimals" />
+    <configuration name="GarbageCollectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.GarbageCollectorDemo" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_principles.*" />
+          <option name="PATTERN" value="java_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control_structures.MainCasting" />
+    <configuration name="JavaBeansDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.JavaBeansDemo" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control_structures.*" />
+          <option name="PATTERN" value="java_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +127,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_principles.MyClass" />
+    <configuration name="JndiLookup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.JndiLookup" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs.*" />
+          <option name="PATTERN" value="java_features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.ListDemo" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BooleanMethod" />
-        <item itemvalue="Application.CompareStringsWithEquals" />
-        <item itemvalue="Application.EqualAnimals" />
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.MainCasting" />
+        <item itemvalue="Application.JavaBeansDemo" />
+        <item itemvalue="Application.AnnotationDemo" />
+        <item itemvalue="Application.JndiLookup" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.GarbageCollectorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +217,7 @@
       <workItem from="1694611436137" duration="112000" />
       <workItem from="1694611616748" duration="122000" />
       <workItem from="1694611805531" duration="486000" />
+      <workItem from="1694615456621" duration="2963000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -500,7 +513,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
