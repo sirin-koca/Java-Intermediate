@@ -1,4 +1,4 @@
-package programs;
+package control_structures;
 
 class TypeCasting {
     public static void main(String[] args) {

@@ -5,7 +5,6 @@ using the single dimensions arrays concept. Hence, in the Varargs method, we can
 A variable-length argument is specified by three periods or dots(…).
 
 For Example:
-
 public static void func(int ... a)
 {
    // method body
@@ -13,8 +12,7 @@ public static void func(int ... a)
  */
 
 public class Varargs {
-    // A method that takes variable
-    // number of integer arguments.
+    // A method that takes variable number of integer arguments.
     static void fun(int... a){
         System.out.println("Number of arguments in this method: " + a.length);
 
@@ -26,8 +24,7 @@ public class Varargs {
 
     // Driver code
     public static void main(String args[]){
-        // Now we can the varargs method with
-        // different number of parameters
+        // Now we can call the varargs method with different number of parameters
 
         // one parameter
         fun(10);

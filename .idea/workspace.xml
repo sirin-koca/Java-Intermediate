@@ -69,7 +69,7 @@
       </method>
     </configuration>
     <configuration name="MainAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAnimals" />
+      <option name="MAIN_CLASS_NAME" value="oop_principles.MainAnimals" />
       <module name="Java Fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,6 +176,7 @@
       <workItem from="1677693787429" duration="1296000" />
       <workItem from="1694609847517" duration="1532000" />
       <workItem from="1694611436137" duration="112000" />
+      <workItem from="1694611616748" duration="122000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -471,7 +472,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
