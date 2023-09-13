@@ -1,6 +1,4 @@
 //Anonymous classes are a way to extend the existing classes on the fly.
-
-
 class Machine {
   public void start() {
     System.out.println("Starting...");
