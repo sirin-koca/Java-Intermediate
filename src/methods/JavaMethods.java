@@ -20,7 +20,7 @@ public class JavaMethods {
 
     public static int method3(int num1, int num2){
         int sum = num1 + num2;
-        String out = "I am method3 and I can return this number: " + sum;
+        String out = "I am method3 and I can return the sum of numbers: " + sum;
         System.out.println(out);
         return sum;
     }

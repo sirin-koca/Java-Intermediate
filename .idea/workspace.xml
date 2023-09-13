@@ -9,9 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
-      <change afterPath="$PROJECT_DIR$/src/generics/MyGenericBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/GenericsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_features/JavaBeansDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_features/JavaBeansDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GenericsExample">
+  <component name="RunManager" selected="Application.JavaMethods">
     <configuration name="AnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_features.AnnotationDemo" />
       <module name="Java Fundamentals" />
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JndiLookup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.JndiLookup" />
+    <configuration name="JavaMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.JavaMethods" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_features.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaMethods" />
+        <item itemvalue="Application.JavaBeansDemo" />
         <item itemvalue="Application.GenericsExample" />
         <item itemvalue="Application.MyGenericBox" />
-        <item itemvalue="Application.JavaBeansDemo" />
         <item itemvalue="Application.AnnotationDemo" />
-        <item itemvalue="Application.JndiLookup" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +201,7 @@
       <workItem from="1694611436137" duration="112000" />
       <workItem from="1694611616748" duration="122000" />
       <workItem from="1694611805531" duration="486000" />
-      <workItem from="1694615456621" duration="3752000" />
+      <workItem from="1694615456621" duration="4450000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -498,7 +497,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
