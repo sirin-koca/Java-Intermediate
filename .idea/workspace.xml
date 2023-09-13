@@ -116,7 +116,7 @@
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control_structures.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
