@@ -1,3 +1,6 @@
+/* This code demonstrates polymorphism and inheritance by creating objects of different classes that implement the same interface and 
+have different implementations of the same method.*/
+
 class Main {
    public static void main(String[] args) {
        Animal dog = new Dog();
