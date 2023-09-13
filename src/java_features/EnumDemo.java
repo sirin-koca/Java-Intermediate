@@ -22,6 +22,9 @@ Enum constants are implicitly static and final.
 
 // Basically, Enums define variables that represent members of a fixed set.
 
+/* We should always use Enums when a variable (especially a method parameter) can only take one out of a small set of possible values.
+If you use Enums instead of integers (or String codes), you increase compile-time checking and avoid errors from passing in invalid constants, and you document which values are legal to use.
+* */
 public class EnumDemo {
 
     enum CoffeeSize {  // enum class
