@@ -7,6 +7,19 @@ class Exceptions {
         int a = 5;
         int b = 0;
 
+/* A single try block can contain multiple catch blocks that handle different exceptions separately.
+
+try {
+//some code
+} catch (ExceptionType1 e1) {
+//Catch block
+} catch (ExceptionType2 e2) {
+//Catch block
+} catch (ExceptionType3 e3) {
+//Catch block
+}
+*/
+
         try {
             System.out.println(a / b);
         } catch (ArithmeticException e) {
