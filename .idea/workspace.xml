@@ -10,7 +10,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="refactoring packages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_features/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_features/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_features/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_features/ArrayListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +59,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadSetPriority (1)">
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.MyClass" />
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Array" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_features.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.RunClass" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_features.MyClass" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.ThreadSetPriority (1)" />
         <item itemvalue="Application.ThreadSetPriority" />
         <item itemvalue="Application.RunClass" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.RunClass (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +193,7 @@
       <workItem from="1694623193556" duration="445000" />
       <workItem from="1694623762054" duration="2223000" />
       <workItem from="1694626656674" duration="7000" />
-      <workItem from="1694705335856" duration="1874000" />
+      <workItem from="1694705335856" duration="2092000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -488,7 +489,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

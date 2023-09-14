@@ -1,5 +1,7 @@
 package arrays;
-
+/*
+Standard Java arrays are of a fixed length, which means that after they are created, they cannot expand or shrink.
+ */
 public class Array {
     private int[] items;
     private int counter;
