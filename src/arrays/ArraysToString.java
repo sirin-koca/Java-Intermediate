@@ -25,7 +25,7 @@ public class ArraysToString {
         System.out.println(Arrays.toString(charArray));
 
         // Arrays.toString() method:
-        // Java has a toString method that enables a program to obtan the objects string representation.
+        // Java has a toString method that enables a program to obtain the objects string representation.
         System.out.println(Arrays.toString(stringArray));
         System.out.println(Arrays.toString(intArray));
         System.out.println(Arrays.toString(doubleArray));
