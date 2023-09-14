@@ -58,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AverageArrayList">
+  <component name="RunManager" selected="Application.ArrayListAverage">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.Array" />
       <module name="Java Fundamentals" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.AverageArrayList" />
+    <configuration name="ArrayListAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.ArrayListAverage" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_features.RunClass" />
+    <configuration name="AverageArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.AverageArrayList" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_features.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListAverage" />
         <item itemvalue="Application.AverageArrayList" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.ThreadSetPriority (1)" />
         <item itemvalue="Application.ThreadSetPriority" />
-        <item itemvalue="Application.RunClass" />
       </list>
     </recent_temporary>
   </component>
