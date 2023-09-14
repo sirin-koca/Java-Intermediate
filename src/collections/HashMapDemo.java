@@ -7,7 +7,7 @@ The put, remove, and get methods are used to add, delete, and access values in t
 
 import java.util.HashMap;
 
-public class HashMaps {
+public class HashMapDemo {
     public static void main(String[ ] args) {
 
         HashMap<String, Integer> points = new HashMap<String, Integer>();
