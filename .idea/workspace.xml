@@ -8,12 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="HashMap demo">
-      <change afterPath="$PROJECT_DIR$/src/collections/CollectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/IterableExample.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Iterable collections demo">
+      <change afterPath="$PROJECT_DIR$/src/collections/IteratorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/CollectionMethodsStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/CollectionMethodsStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/Iterable_Collections.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IterableExample">
+  <component name="RunManager" selected="Application.IteratorDemo">
     <configuration name="CollectionMethodsStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.CollectionMethodsStatic" />
       <module name="Java Fundamentals" />
@@ -101,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.LinkedListDemo" />
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.IteratorDemo" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorDemo" />
         <item itemvalue="Application.IterableExample" />
         <item itemvalue="Application.CollectionSort" />
         <item itemvalue="Application.CollectionMethodsStatic" />
         <item itemvalue="Application.SetDemo" />
-        <item itemvalue="Application.LinkedListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +194,7 @@
       <workItem from="1694626656674" duration="7000" />
       <workItem from="1694705335856" duration="5301000" />
       <workItem from="1694715158875" duration="849000" />
-      <workItem from="1694734074071" duration="4048000" />
+      <workItem from="1694734074071" duration="4681000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -493,7 +490,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +509,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Switch-statement" />
     <MESSAGE value="Lets roll the Dice.java" />
     <MESSAGE value="WhileLoop with try-catch" />
     <MESSAGE value="doYouUnderstandRecursion()" />
@@ -537,7 +533,8 @@
     <MESSAGE value="Substitution principle" />
     <MESSAGE value="refactoring packages" />
     <MESSAGE value="HashMap demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap demo" />
+    <MESSAGE value="Iterable collections demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterable collections demo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
