@@ -8,8 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Iterable collections demo">
-      <change afterPath="$PROJECT_DIR$/src/collections/IteratorDemo.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Iterable and Iterator collections demo">
+      <change afterPath="$PROJECT_DIR$/src/collections/IterateWithIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/SumIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,20 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IteratorDemo">
-    <configuration name="CollectionMethodsStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.CollectionMethodsStatic" />
-      <module name="Java Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SumIterator">
     <configuration name="CollectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.CollectionSort" />
       <module name="Java Fundamentals" />
@@ -98,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IterateWithIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.IterateWithIterator" />
+      <module name="Java Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.IteratorDemo" />
       <module name="Java Fundamentals" />
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.SetDemo" />
+    <configuration name="SumIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.SumIterator" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumIterator" />
+        <item itemvalue="Application.IterateWithIterator" />
         <item itemvalue="Application.IteratorDemo" />
         <item itemvalue="Application.IterableExample" />
         <item itemvalue="Application.CollectionSort" />
-        <item itemvalue="Application.CollectionMethodsStatic" />
-        <item itemvalue="Application.SetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +195,7 @@
       <workItem from="1694626656674" duration="7000" />
       <workItem from="1694705335856" duration="5301000" />
       <workItem from="1694715158875" duration="849000" />
-      <workItem from="1694734074071" duration="4681000" />
+      <workItem from="1694734074071" duration="5441000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -490,7 +491,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +510,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Lets roll the Dice.java" />
     <MESSAGE value="WhileLoop with try-catch" />
     <MESSAGE value="doYouUnderstandRecursion()" />
     <MESSAGE value="PrimeNumberChecker" />
@@ -534,7 +534,8 @@
     <MESSAGE value="refactoring packages" />
     <MESSAGE value="HashMap demo" />
     <MESSAGE value="Iterable collections demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterable collections demo" />
+    <MESSAGE value="Iterable and Iterator collections demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterable and Iterator collections demo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
