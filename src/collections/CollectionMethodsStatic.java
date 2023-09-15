@@ -7,8 +7,8 @@ One of the most popular Collections class methods is sort(), which sorts the ele
 The methods in the Collections class are static, so you don't need a Collections object to call them.
 
 Other useful methods in the Collections class:
-max(Collection c): Returns the maximum element in c as determined by natural ordering.
-min(Collection c): Returns the minimum element in c as determined by natural ordering.
+Collections.max(arrayName): Returns the maximum element in c as determined by natural ordering.
+Collections.min(arrayName): Returns the minimum element in c as determined by natural ordering.
 reverse(List list): Reverses the sequence in list.
 shuffle(List list): Shuffles (i.e., randomizes) the elements in list.
  */
