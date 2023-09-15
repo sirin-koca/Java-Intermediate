@@ -9,10 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Iterable and Iterator collections demo">
-      <change afterPath="$PROJECT_DIR$/src/collections/FileFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/WriteFileFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/Welcome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Аccessories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/Accessories.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +59,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FileFormatter">
-    <configuration name="FileFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.FileFormatter" />
+  <component name="RunManager" selected="Application.Accessories">
+    <configuration name="Accessories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.Accessories" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.FileHandling" />
+    <configuration name="WelcomeMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.WelcomeMain" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterateSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.IterateSum" />
+    <configuration name="WelcomeMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.WelcomeMain" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterateWithIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.IterateWithIterator" />
+    <configuration name="WelcomeMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.WelcomeMain" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.IteratorDemo" />
+    <configuration name="Аccessories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.Аccessories" />
       <module name="Java Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileFormatter" />
-        <item itemvalue="Application.FileHandling" />
-        <item itemvalue="Application.IterateSum" />
-        <item itemvalue="Application.IterateWithIterator" />
-        <item itemvalue="Application.IteratorDemo" />
+        <item itemvalue="Application.Accessories" />
+        <item itemvalue="Application.Аccessories" />
+        <item itemvalue="Application.WelcomeMain (4)" />
+        <item itemvalue="Application.WelcomeMain (3)" />
+        <item itemvalue="Application.WelcomeMain (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +196,8 @@
       <workItem from="1694705335856" duration="5301000" />
       <workItem from="1694715158875" duration="849000" />
       <workItem from="1694734074071" duration="7440000" />
+      <workItem from="1694743237830" duration="25000" />
+      <workItem from="1694816218651" duration="1006000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -492,7 +493,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
