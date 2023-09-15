@@ -1,23 +1,63 @@
 package programs;
 
-import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Accessories {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a number:");
-        int c = scanner.nextInt();
 
-        String[] cat = {"PCs", "Notebooks", "Tablets", "Phones", "Аccessories"};
+    // An inner class to represent an accessory
+    private static class Accessory {
+        private String name;
+        private double price;
 
-        if (c < 10) {
-            try {
-                System.out.println("The item you choose: " + cat[c]);
-            } catch (Exception e) {
-                System.out.println("Wrong Option");
-            }
-        } else {
-            System.out.println("Number is too big!");
+        public Accessory(String name, double price) {
+            this.name = name;
+            this.price = price;
         }
+
+        public String getName() {
+            return name;
+        }
+
+        public double getPrice() {
+            return price;
+        }
+
+        @Override
+        public String toString() {
+            return "Accessory name = " + name + ", price = " + price;
+        }
+    }
+
+    // A collection of accessories
+    private List<Accessory> accessories;
+
+    public Accessories() {
+        this.accessories = new ArrayList<>();
+    }
+
+    // Adds an accessory to the collection
+    public void addAccessory(String name, double price) {
+        Accessory accessory = new Accessory(name, price);
+        accessories.add(accessory);
+    }
+
+    // Display all accessories
+    public void displayAccessories() {
+        for (Accessory access : accessories) {
+            System.out.println(access);
+        }
+    }
+
+    public static void main(String[] args) {
+        Accessories Store = new Accessories();
+
+        Store.addAccessory("Watch", 200.0);
+        Store.addAccessory("Necklace", 300.5);
+        Store.addAccessory("Ring", 120.75);
+
+        System.out.println("Available accessories: ");
+        Store.displayAccessories();
+
     }
 }
