@@ -92,6 +92,8 @@ public class HashMapDemo {
         map3.put("John", 28);
         map3.put("Jane", 25);
         map3.put("Jake", 30);
+        map3.put("Maya", 5);
+        map3.put("Sirin", 45);
 
         System.out.println("Map3: ");
 
@@ -113,6 +115,10 @@ public class HashMapDemo {
         // Loop through hashmap using Lambdas:
         map3.forEach((key, value) -> { System.out.println(key + ": " + value); });
 
+        // Check the size of the map:
+        System.out.println(map1.size());
+        System.out.println(map2.size());
+        System.out.println(map3.size());
 
     }
 }
