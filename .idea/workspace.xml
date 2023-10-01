@@ -8,8 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="Iterable and Iterator collections demo">
-      <change afterPath="$PROJECT_DIR$/src/arrays/Dublicate.java" afterDir="false" />
+    <list default="true" id="e863bb0f-2bf5-495f-ac76-4bc087b0eeef" name="Changes" comment="New collections demo HashMaps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/collections/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/HashMapDemo.java" afterDir="false" />
     </list>
@@ -200,7 +199,7 @@
       <workItem from="1694816218651" duration="2255000" />
       <workItem from="1695138300831" duration="319000" />
       <workItem from="1695249924659" duration="9000" />
-      <workItem from="1696149690017" duration="2490000" />
+      <workItem from="1696149690017" duration="3142000" />
     </task>
     <task id="LOCAL−00024" summary="Java Basic Concepts">
       <created>1664927849696</created>
@@ -496,7 +495,7 @@
       <option name="presentableId" value="LOCAL−00072" />
       <updated>1677692748597</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +514,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="WhileLoop with try-catch" />
     <MESSAGE value="doYouUnderstandRecursion()" />
     <MESSAGE value="PrimeNumberChecker" />
     <MESSAGE value="PrimeNumberGenerator" />
@@ -540,7 +538,8 @@
     <MESSAGE value="HashMap demo" />
     <MESSAGE value="Iterable collections demo" />
     <MESSAGE value="Iterable and Iterator collections demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterable and Iterator collections demo" />
+    <MESSAGE value="New collections demo HashMaps" />
+    <option name="LAST_COMMIT_MESSAGE" value="New collections demo HashMaps" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

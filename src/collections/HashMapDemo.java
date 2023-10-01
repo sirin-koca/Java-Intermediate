@@ -109,5 +109,10 @@ public class HashMapDemo {
         // Check if a key exists
         System.out.println("Does Jake exist? After removing Jake: " + map3.containsKey("Jake")); // Outputs: Does Jake exist? false
 
+
+        // Loop through hashmap using Lambdas:
+        map3.forEach((key, value) -> { System.out.println(key + ": " + value); });
+
+
     }
 }
