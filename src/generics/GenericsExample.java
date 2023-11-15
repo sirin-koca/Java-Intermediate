@@ -5,6 +5,17 @@ import java.util.List;
 public class GenericsExample {
     public static void main(String[] args) {
 
+/* 
+The program demonstrates how generics enhance type safety by ensuring that collections only contain objects of a specified type. 
+By using generics with the List<String> declaration, the compiler will enforce that only strings are added to genericList. 
+This prevents runtime errors, such as ClassCastException, which could occur if the program were to attempt to cast an object of 
+one type to another incompatible type.
+
+When we run this program the output will be: 
+    NoGenerics: Error: Incorrect data type!
+    WithGenerics: John
+*/
+
         // Non-generic List
         List nonGenericList = new ArrayList();
         nonGenericList.add("John");
