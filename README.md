@@ -8,7 +8,7 @@
 ---
 <table>
 <tr>
-<th>oop_principles.Main features of Java</th><th>Input</th><th>Output</th>
+<th>Main features of Java</th><th>Input</th><th>Output</th>
 </tr>
 
 <tr>
